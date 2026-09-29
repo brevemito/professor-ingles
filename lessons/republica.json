@@ -1,0 +1,264 @@
+{
+ "id": "republica",
+ "title": "The Republic: The Allegory of the Cave",
+ "author": "Plato",
+ "tradition": "Filosofia grega, século IV a.C.",
+ "intro": "Um dos textos mais famosos da filosofia: Sócrates conta uma imagem sobre prisioneiros numa caverna para explicar a diferença entre aparência e verdade.",
+ "levels": {
+  "B2": {
+   "text": "Imagine a group of prisoners who have lived all their lives in a dark cave. They are chained so that they can only look at the wall in front of them. Behind them a fire is burning, and people carry objects past it, so the prisoners see only moving shadows on the wall. For them, these shadows are reality. One day, a prisoner is freed and taken outside. At first the sunlight hurts his eyes and he is confused. Slowly he learns to see real trees, animals and, finally, the sun itself. When he goes back to tell the others the truth, they laugh at him and refuse to believe him.",
+   "glossary": [
+    [
+     "chained",
+     "acorrentados"
+    ],
+    [
+     "shadows",
+     "sombras"
+    ],
+    [
+     "confused",
+     "confuso"
+    ],
+    [
+     "refuse",
+     "recusar-se"
+    ]
+   ],
+   "questions": [
+    {
+     "type": "literal",
+     "q": "What do the prisoners see on the wall?",
+     "options": [
+      "Moving shadows of objects",
+      "The light of the sun",
+      "Pictures painted by guards",
+      "Real people walking"
+     ],
+     "answer": 0,
+     "why": "Um fogo projecta na parede as sombras dos objectos que passam."
+    },
+    {
+     "type": "vocabulary",
+     "q": "In the text, 'chained' means",
+     "options": [
+      "hidden from the fire",
+      "lost in the dark",
+      "painted on the wall",
+      "tied so that they cannot move freely"
+     ],
+     "answer": 3,
+     "why": "Estão presos com correntes, por isso só conseguem olhar para a parede."
+    },
+    {
+     "type": "inference",
+     "q": "Why is the freed prisoner confused at first?",
+     "options": [
+      "He does not want to leave",
+      "The sunlight hurts his eyes and everything is new to him",
+      "He cannot walk",
+      "He is afraid of the fire"
+     ],
+     "answer": 1,
+     "why": "A luz forte e as coisas novas deixam-no desorientado."
+    },
+    {
+     "type": "structure",
+     "q": "Which order matches the text?",
+     "options": [
+      "The prisoners see shadows, one is freed, he learns to see real things, he returns and is laughed at",
+      "The others laugh at him, then he sees the sun, then he is chained",
+      "One prisoner is freed, then he is chained again, then he sees the fire",
+      "The sun hurts his eyes, then the fire is lit, then he is freed"
+     ],
+     "answer": 0,
+     "why": "O texto segue a sequência: sombras, libertação, aprendizagem e regresso."
+    },
+    {
+     "type": "interpretation",
+     "q": "What could the story suggest about people who hear a truth very different from what they know?",
+     "options": [
+      "They immediately share it with everyone",
+      "They may laugh at it and refuse to believe it",
+      "They stop caring about the truth",
+      "They always accept it at once"
+     ],
+     "answer": 1,
+     "why": "Os prisioneiros riem-se e recusam acreditar: é difícil aceitar o que foge à nossa experiência."
+    }
+   ],
+   "discussion": "Can you think of a time when you believed something that later turned out to be wrong? What changed your mind?",
+   "writing": "Write 80 to 100 words: What do the shadows represent in your own life today?"
+  },
+  "C1": {
+   "text": "In the Republic, Plato has Socrates describe prisoners who have been confined since childhood in an underground cave, bound in such a way that they can face only a wall. Behind them a fire casts the shadows of objects carried along a raised walkway, and the prisoners, having known nothing else, take these fleeting images for the whole of reality. When one of them is dragged towards the light, he is at first dazzled and disoriented, and he would gladly return to the familiar darkness. Only gradually does he come to grasp the true nature of things. Yet on descending again, he is ridiculed, and the prisoners would sooner put him to death than abandon their comfortable convictions.",
+   "glossary": [
+    [
+     "confined",
+     "confinados"
+    ],
+    [
+     "fleeting",
+     "passageiro, fugaz"
+    ],
+    [
+     "dazzled",
+     "deslumbrado"
+    ],
+    [
+     "ridiculed",
+     "ridicularizado"
+    ]
+   ],
+   "questions": [
+    {
+     "type": "literal",
+     "q": "What causes the shadows on the wall?",
+     "options": [
+      "The prisoners' own movements",
+      "Guards who paint images on the wall",
+      "The sun shining into the cave",
+      "A fire behind the prisoners lights objects carried along a raised walkway"
+     ],
+     "answer": 3,
+     "why": "O fogo, atrás dos prisioneiros, projecta as sombras dos objectos transportados."
+    },
+    {
+     "type": "vocabulary",
+     "q": "'Dazzled and disoriented' suggests that the freed prisoner is",
+     "options": [
+      "overwhelmed by unfamiliar light",
+      "proud of his escape",
+      "asleep",
+      "angry at his captors"
+     ],
+     "answer": 0,
+     "why": "Deslumbrado e desorientado: a luz nova é demasiado forte para ele."
+    },
+    {
+     "type": "inference",
+     "q": "Why do the prisoners mistake shadows for reality?",
+     "options": [
+      "The guards deceive them on purpose",
+      "They have never experienced anything different",
+      "The fire is too bright",
+      "They are not intelligent enough"
+     ],
+     "answer": 1,
+     "why": "O texto diz que nunca conheceram outra coisa ('having known nothing else')."
+    },
+    {
+     "type": "structure",
+     "q": "What does 'Yet' signal at the start of the last sentence?",
+     "options": [
+      "A contrast between his growing understanding and the way he is received",
+      "A repetition of the previous point",
+      "An example of the prisoners' kindness",
+      "A reason for his escape"
+     ],
+     "answer": 0,
+     "why": "'Yet' introduz um contraste: depois de compreender, ele é ridicularizado."
+    },
+    {
+     "type": "interpretation",
+     "q": "The phrase 'abandon their comfortable convictions' implies that the prisoners",
+     "options": [
+      "distrust the shadows",
+      "fear the fire",
+      "value comfort more than truth",
+      "are eager to learn"
+     ],
+     "answer": 2,
+     "why": "Preferem as suas crenças confortáveis à verdade."
+    }
+   ],
+   "discussion": "Plato suggests that people resist ideas that threaten their comfortable beliefs. Do you agree? Give an example from society today.",
+   "writing": "Write 120 to 150 words: Explain the allegory in your own words and say what kind of education might free people from the 'cave'."
+  },
+  "C2": {
+   "text": "The allegory of the cave, perhaps the most enduring image in Western philosophy, dramatises the epistemological chasm between appearance and the intelligible order that Plato calls the Forms. The prisoners' predicament is not merely ignorance but a self-perpetuating illusion: since the shadows are all they have ever encountered, they construct elaborate customs of prediction and honour around them. Liberation, moreover, is depicted as arduous and coercive rather than pleasant; enlightenment wounds before it heals. Most provocatively, Plato insists that the one who has glimpsed the Good bears an obligation to return, even though the very institutions of the cave will prove hostile to him, a transparent allusion, many readers have felt, to the fate of Socrates.",
+   "glossary": [
+    [
+     "epistemological",
+     "epistemológico (sobre o conhecimento)"
+    ],
+    [
+     "predicament",
+     "situação difícil"
+    ],
+    [
+     "arduous",
+     "árduo"
+    ],
+    [
+     "allusion",
+     "alusão"
+    ]
+   ],
+   "questions": [
+    {
+     "type": "literal",
+     "q": "According to the passage, what makes the prisoners' situation more than simple ignorance?",
+     "options": [
+      "They are physically weak",
+      "Their illusion sustains itself through customs built upon it",
+      "They refuse to learn",
+      "They have no teachers"
+     ],
+     "answer": 1,
+     "why": "A ilusão alimenta-se a si própria através de costumes criados em torno das sombras."
+    },
+    {
+     "type": "vocabulary",
+     "q": "In 'Liberation is depicted as arduous and coercive', 'arduous' most nearly means",
+     "options": [
+      "demanding and hard to endure",
+      "welcome and pleasant",
+      "unexpected and brief",
+      "silent and secret"
+     ],
+     "answer": 0,
+     "why": "'Arduous' significa árduo, exigente; o texto contrasta-o com 'pleasant'."
+    },
+    {
+     "type": "inference",
+     "q": "What is implied by 'enlightenment wounds before it heals'?",
+     "options": [
+      "The truth is dangerous to everyone",
+      "Gaining understanding is at first painful",
+      "Knowledge is easy to obtain",
+      "Teachers are cruel"
+     ],
+     "answer": 1,
+     "why": "O processo de compreender começa por ser doloroso."
+    },
+    {
+     "type": "structure",
+     "q": "What is the function of 'moreover' in the third sentence?",
+     "options": [
+      "It gives a concrete example",
+      "It introduces a conclusion",
+      "It contradicts the previous sentence",
+      "It adds a further feature of the allegory to the previous point"
+     ],
+     "answer": 3,
+     "why": "'Moreover' acrescenta uma nova ideia (a libertação é penosa) à anterior."
+    },
+    {
+     "type": "interpretation",
+     "q": "'A transparent allusion, many readers have felt, to the fate of Socrates' shows that the writer",
+     "options": [
+      "says all scholars agree",
+      "invents a new theory",
+      "denies that Socrates is relevant",
+      "presents the link with Socrates as a widely held reading, not a proven fact"
+     ],
+     "answer": 3,
+     "why": "'Many readers have felt' indica uma leitura partilhada por muitos, não uma certeza."
+    }
+   ],
+   "discussion": "Is Plato right that those who see the truth have a duty to return and teach others, even at personal risk?",
+   "writing": "Write 150 to 200 words: Compare the cave with a modern situation in which people mistake a representation for reality."
+  }
+ }
+}
