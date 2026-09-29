@@ -1,7 +1,7 @@
 # Professor de Inglês | Brevemito
 
 Aplicação web gratuita para aprender inglês através da leitura de grandes obras da humanidade. Começa no nível B2 do QECR e avança para C1 e C2.
-
+publicado: https://brevemito.github.io/professor-ingles/
 Não tem contas, pagamentos, chaves API nem servidor. Usa apenas HTML, CSS, JavaScript e JSON, e guarda o progresso no próprio navegador (`localStorage`). Nesta versão não há voz nem inteligência artificial.
 
 ## Estrutura
