@@ -1,0 +1,264 @@
+{
+ "id": "iliada",
+ "title": "The Iliad: The Wrath of Achilles",
+ "author": "Homer",
+ "tradition": "Épica grega, século VIII a.C. (aprox.)",
+ "intro": "A história de um guerreiro cuja ira causa sofrimento a todos, e de um final surpreendente em que dois inimigos choram juntos.",
+ "levels": {
+  "B2": {
+   "text": "The Iliad tells the story of a few weeks in the tenth year of the Trojan War. Achilles is the best Greek warrior, but he becomes angry with King Agamemnon, who takes away a woman that Achilles had received as a prize. Achilles refuses to fight, and without him the Greeks begin to lose. Then his close friend Patroclus goes into battle wearing Achilles's armour, and Hector, the Trojan prince, kills him. Achilles's anger turns against Hector. He returns to the war and kills him. At the end, Hector's father, King Priam, secretly visits Achilles to ask for his son's body, and Achilles, moved, agrees.",
+   "glossary": [
+    [
+     "warrior",
+     "guerreiro"
+    ],
+    [
+     "armour",
+     "armadura"
+    ],
+    [
+     "prince",
+     "príncipe"
+    ],
+    [
+     "moved",
+     "comovido"
+    ]
+   ],
+   "questions": [
+    {
+     "type": "literal",
+     "q": "Who kills Patroclus?",
+     "options": [
+      "Priam",
+      "Odysseus",
+      "Agamemnon",
+      "Hector"
+     ],
+     "answer": 3,
+     "why": "Heitor mata Pátroclo."
+    },
+    {
+     "type": "vocabulary",
+     "q": "In 'Achilles, moved, agrees', 'moved' means",
+     "options": [
+      "angry and impatient",
+      "carried to another place",
+      "afraid and confused",
+      "feeling strong sympathy or emotion"
+     ],
+     "answer": 3,
+     "why": "Aquiles fica comovido e por isso aceita."
+    },
+    {
+     "type": "inference",
+     "q": "Why does Priam visit Achilles 'secretly'?",
+     "options": [
+      "He is ashamed of asking",
+      "He wants to surprise his friends",
+      "The visit could be dangerous because Achilles is the enemy who killed Hector",
+      "He wants to fight Achilles"
+     ],
+     "answer": 2,
+     "why": "Aquiles é o inimigo que matou o filho de Príamo; a visita é arriscada."
+    },
+    {
+     "type": "structure",
+     "q": "Which order matches the story?",
+     "options": [
+      "Patroclus is killed, Agamemnon takes the prize, Achilles refuses to fight, Achilles kills Hector",
+      "Agamemnon takes the prize, Achilles refuses to fight, Patroclus is killed, Achilles kills Hector",
+      "Achilles kills Hector, Patroclus is killed, Achilles refuses to fight, Agamemnon takes the prize",
+      "Achilles kills Hector, Priam visits Achilles, Agamemnon takes the prize, Achilles refuses to fight"
+     ],
+     "answer": 1,
+     "why": "Esta é a sequência do texto."
+    },
+    {
+     "type": "interpretation",
+     "q": "What does Achilles's decision at the end show?",
+     "options": [
+      "He is still only thinking of revenge",
+      "His anger has given way to sympathy for Priam",
+      "He is afraid of the Trojans",
+      "He wants a reward"
+     ],
+     "answer": 1,
+     "why": "Comovido, aceita entregar o corpo do filho a Príamo."
+    }
+   ],
+   "discussion": "Achilles's anger causes great suffering. Is anger ever useful? When does it become dangerous?",
+   "writing": "Write 80 to 100 words: Describe how you think Priam felt when he entered Achilles's tent."
+  },
+  "C1": {
+   "text": "The Iliad opens with a single word, 'wrath', and the poem never ceases to examine its consequences. Slighted by Agamemnon, who seizes his war prize, Achilles withdraws from battle, and his absence exacts a heavy toll on the Greeks. Only the death of his companion Patroclus, killed by Hector while wearing Achilles's armour, drags him back into the fighting, now motivated not by honour but by grief and vengeance. Having slain Hector, he abuses the corpse. The poem, however, refuses to end in triumph: when Priam risks his life to beg for his son's body, the two enemies weep together, and a fragile compassion briefly overcomes the logic of war.",
+   "glossary": [
+    [
+     "wrath",
+     "ira"
+    ],
+    [
+     "slighted",
+     "ofendido, desconsiderado"
+    ],
+    [
+     "vengeance",
+     "vingança"
+    ],
+    [
+     "corpse",
+     "cadáver"
+    ]
+   ],
+   "questions": [
+    {
+     "type": "literal",
+     "q": "What drives Achilles back into battle?",
+     "options": [
+      "Grief and a desire for vengeance",
+      "Fear of defeat",
+      "An order from Agamemnon",
+      "A promise of gold"
+     ],
+     "answer": 0,
+     "why": "A morte de Pátroclo."
+    },
+    {
+     "type": "vocabulary",
+     "q": "'His absence exacts a heavy toll on the Greeks' means that",
+     "options": [
+      "the Greeks win easily",
+      "the Greeks pay a tax",
+      "the Greeks forget him",
+      "the Greeks suffer serious losses"
+     ],
+     "answer": 3,
+     "why": "Sem ele, os gregos sofrem grandes perdas."
+    },
+    {
+     "type": "inference",
+     "q": "What does 'now motivated not by honour but by grief and vengeance' suggest?",
+     "options": [
+      "He no longer wants to win",
+      "He is afraid of Hector",
+      "His reasons for fighting have changed since the quarrel began",
+      "He has forgiven Agamemnon"
+     ],
+     "answer": 2,
+     "why": "Antes lutava (ou recusava lutar) por honra; agora é o luto e a vingança que o movem."
+    },
+    {
+     "type": "structure",
+     "q": "What does 'however' signal in 'The poem, however, refuses to end in triumph'?",
+     "options": [
+      "A contrast with the violence just described",
+      "A summary of the whole poem",
+      "A reason for the war",
+      "An example of the same violence"
+     ],
+     "answer": 0,
+     "why": "Depois de o herói maltratar o cadáver, 'however' anuncia um final diferente."
+    },
+    {
+     "type": "interpretation",
+     "q": "What is the significance of the final scene?",
+     "options": [
+      "It ends the war",
+      "It punishes Priam",
+      "It shows a shared humanity between enemies",
+      "It celebrates a Greek victory"
+     ],
+     "answer": 2,
+     "why": "Dois inimigos choram juntos."
+    }
+   ],
+   "discussion": "Why might an epic about war end with an act of compassion rather than a victory?",
+   "writing": "Write 120 to 150 words: Explain how Achilles changes between the beginning and the end of the poem."
+  },
+  "C2": {
+   "text": "What distinguishes the Iliad from a mere celebration of martial prowess is its unflinching attention to loss. Achilles's quarrel with Agamemnon is nominally about honour, yet the poem gradually reveals honour to be an insufficient consolation for mortality. Offered every reparation, Achilles first refuses, only to be undone by Patroclus's death, after which his rage becomes self-consuming. The epic's closing movement, in which Achilles and Priam share a fleeting recognition of their common vulnerability, does not resolve the war; Troy's fall lies beyond the poem's end. Instead, it suggests that the deepest response to suffering is not glory but the capacity to acknowledge another's grief.",
+   "glossary": [
+    [
+     "prowess",
+     "proeza, valentia"
+    ],
+    [
+     "unflinching",
+     "destemido, sem hesitar"
+    ],
+    [
+     "reparation",
+     "reparação"
+    ],
+    [
+     "vulnerability",
+     "vulnerabilidade"
+    ]
+   ],
+   "questions": [
+    {
+     "type": "literal",
+     "q": "What happens when Achilles is offered every reparation?",
+     "options": [
+      "He first refuses",
+      "He accepts immediately",
+      "He asks for more gold",
+      "He leaves for Troy"
+     ],
+     "answer": 0,
+     "why": "O texto diz: 'Achilles first refuses'."
+    },
+    {
+     "type": "vocabulary",
+     "q": "'Nominally about honour' suggests the quarrel is",
+     "options": [
+      "officially about honour, though there is more beneath the surface",
+      "entirely about honour",
+      "never about honour",
+      "settled by honour"
+     ],
+     "answer": 0,
+     "why": "'Nominally' significa 'no nome', na aparência."
+    },
+    {
+     "type": "inference",
+     "q": "'Does not resolve the war' implies that",
+     "options": [
+      "the war ends in a truce",
+      "the Greeks lose",
+      "Achilles dies in the poem",
+      "the poem ends before Troy falls"
+     ],
+     "answer": 3,
+     "why": "A queda de Tróia fica fora do poema."
+    },
+    {
+     "type": "structure",
+     "q": "What is the function of 'Instead' in the last sentence?",
+     "options": [
+      "It introduces what the poem offers in place of a military resolution",
+      "It gives a historical date",
+      "It repeats the previous claim",
+      "It excuses Achilles"
+     ],
+     "answer": 0,
+     "why": "'Instead' contrasta o que o poema não faz com o que sugere."
+    },
+    {
+     "type": "interpretation",
+     "q": "What is the writer's overall argument?",
+     "options": [
+      "The Iliad argues that honour solves every conflict",
+      "The Iliad mainly explains how Troy fell",
+      "The Iliad is remarkable for its attention to human loss and compassion rather than for glorifying war",
+      "The Iliad is a simple celebration of victory"
+     ],
+     "answer": 2,
+     "why": "O texto sublinha a atenção à perda e a capacidade de reconhecer o luto do outro."
+    }
+   ],
+   "discussion": "Is honour a sufficient reason to fight? What does the Iliad suggest?",
+   "writing": "Write 150 to 200 words: Evaluate the claim that the Iliad is more about compassion than about war."
+  }
+ }
+}
