@@ -1,0 +1,264 @@
+{
+ "id": "odisseia",
+ "title": "The Odyssey: Odysseus and the Cyclops",
+ "author": "Homer",
+ "tradition": "Épica grega, século VIII a.C. (aprox.)",
+ "intro": "Depois da guerra de Tróia, Ulisses tenta voltar a casa. Neste episódio, a inteligência vence a força bruta, mas o orgulho custa caro.",
+ "levels": {
+  "B2": {
+   "text": "After the Trojan War, Odysseus and his men sail home, but they are blown off course and land on an island. They enter a cave full of cheese and sheep. Its owner is Polyphemus, a giant Cyclops with one eye. He traps the men inside with a huge rock and begins to eat them. Odysseus is clever. He tells the giant that his name is 'Nobody' and gives him strong wine. When the Cyclops falls asleep, the men blind him with a sharpened stick. He screams that 'Nobody' is hurting him, so the other giants do not come to help. In the morning, the men escape, hidden under the sheep.",
+   "glossary": [
+    [
+     "to trap",
+     "prender, encurralar"
+    ],
+    [
+     "sharpened",
+     "afiado"
+    ],
+    [
+     "to blind",
+     "cegar"
+    ],
+    [
+     "clever",
+     "astuto"
+    ]
+   ],
+   "questions": [
+    {
+     "type": "literal",
+     "q": "What do the men use to blind the Cyclops?",
+     "options": [
+      "A stone",
+      "A burning house",
+      "A sword",
+      "A sharpened stick"
+     ],
+     "answer": 3,
+     "why": "Usam um pau afiado."
+    },
+    {
+     "type": "vocabulary",
+     "q": "In the text, 'to trap' means",
+     "options": [
+      "to teach someone a lesson",
+      "to keep someone inside so that they cannot leave",
+      "to help someone escape",
+      "to give someone a present"
+     ],
+     "answer": 1,
+     "why": "O gigante prende os homens dentro da gruta com uma pedra enorme."
+    },
+    {
+     "type": "inference",
+     "q": "Why does Odysseus say his name is 'Nobody'?",
+     "options": [
+      "The giant asked for a secret name",
+      "So that the other giants will not understand who is attacking",
+      "To make the giant laugh",
+      "He is ashamed of his real name"
+     ],
+     "answer": 1,
+     "why": "Quando o gigante grita, os outros ouvem que 'ninguém' o ataca."
+    },
+    {
+     "type": "structure",
+     "q": "Which order matches the story?",
+     "options": [
+      "The giant falls asleep, then he is blinded, then Odysseus offers wine",
+      "Odysseus gives the giant wine, the giant falls asleep, the men blind him, the men escape under the sheep",
+      "The men escape under the sheep, then they blind the giant, then Odysseus gives him wine",
+      "The men blind the giant, then they give him wine, then he falls asleep"
+     ],
+     "answer": 1,
+     "why": "Vinho, sono, cegueira e fuga debaixo das ovelhas: é esta a ordem do texto."
+    },
+    {
+     "type": "interpretation",
+     "q": "What does the story suggest about how Odysseus solves problems?",
+     "options": [
+      "He prefers cleverness to open fighting",
+      "He asks the other giants for help",
+      "He relies only on his strength",
+      "He waits for the gods to act"
+     ],
+     "answer": 0,
+     "why": "Usa um nome falso e vinho em vez de lutar de frente."
+    }
+   ],
+   "discussion": "Is Odysseus a hero because he is clever or because he is strong? What qualities make a hero today?",
+   "writing": "Write 80 to 100 words: Retell the escape from the cave as if you were one of Odysseus's men."
+  },
+  "C1": {
+   "text": "Having survived the war at Troy, Odysseus finds himself, through a combination of misfortune and his own curiosity, imprisoned in the cave of the Cyclops Polyphemus. Rather than resort to brute force, which would leave the entrance sealed and the men doomed, he relies on cunning. He offers the giant undiluted wine and, when asked his name, replies 'Nobody'. Once Polyphemus is drunk and asleep, the Greeks drive a burning stake into his single eye. His neighbours, alerted by his cries that 'Nobody' is attacking him, dismiss the matter as a private affliction. The pun secures their escape, yet Odysseus's pride, when he later taunts the blinded giant with his real name, provokes the wrath of Poseidon.",
+   "glossary": [
+    [
+     "cunning",
+     "astúcia"
+    ],
+    [
+     "stake",
+     "estaca"
+    ],
+    [
+     "affliction",
+     "aflição, mal"
+    ],
+    [
+     "to taunt",
+     "provocar, troçar de"
+    ]
+   ],
+   "questions": [
+    {
+     "type": "literal",
+     "q": "What do the Greeks do once Polyphemus is drunk and asleep?",
+     "options": [
+      "They wake him and negotiate",
+      "They roll the rock away and flee",
+      "They drive a burning stake into his single eye",
+      "They tie him up with rope"
+     ],
+     "answer": 2,
+     "why": "Cravam-lhe uma estaca em brasa no único olho."
+    },
+    {
+     "type": "vocabulary",
+     "q": "'Dismiss the matter as a private affliction' means the neighbours",
+     "options": [
+      "investigate the cause carefully",
+      "celebrate his misfortune",
+      "punish him for his cries",
+      "treat his suffering as a personal problem that needs no action"
+     ],
+     "answer": 3,
+     "why": "'Affliction' é um sofrimento; 'dismiss' é não lhe dar importância."
+    },
+    {
+     "type": "inference",
+     "q": "Why does Odysseus not simply kill the giant by force?",
+     "options": [
+      "He is too tired",
+      "He respects the giant",
+      "Killing him would leave the entrance sealed and the men trapped",
+      "He has no weapons"
+     ],
+     "answer": 2,
+     "why": "Sem o gigante vivo, ninguém desloca a pedra da entrada."
+    },
+    {
+     "type": "structure",
+     "q": "What is the effect of the name 'Nobody'?",
+     "options": [
+      "It makes the giant sleep",
+      "The Cyclops forgives him",
+      "The giants fear Odysseus",
+      "The neighbours misread the cries and do not help"
+     ],
+     "answer": 3,
+     "why": "Os vizinhos interpretam mal os gritos e não ajudam."
+    },
+    {
+     "type": "interpretation",
+     "q": "What does the last sentence suggest about Odysseus?",
+     "options": [
+      "He never makes mistakes",
+      "He fears the gods",
+      "His cleverness is accompanied by a pride that has consequences",
+      "He is always humble"
+     ],
+     "answer": 2,
+     "why": "O orgulho ao revelar o nome verdadeiro provoca a ira de Poseidon."
+    }
+   ],
+   "discussion": "The Odyssey praises cunning as a virtue, yet punishes pride. Can intelligence be a moral quality?",
+   "writing": "Write 120 to 150 words: Analyse how the story links cleverness and pride."
+  },
+  "C2": {
+   "text": "The Cyclops episode is often read as a study in the tension between civilisation and its absence. Polyphemus, who neither farms nor honours the laws of hospitality, violates precisely the customs on which Greek society rests; Odysseus, by contrast, meets savagery with a trickery that is itself ethically ambivalent. His pseudonym is a linguistic conceit that plays on the Greek for 'no one' and the word for 'cunning', so that the hero's intelligence and his self-erasure coincide. Yet the victory carries a price. By abandoning anonymity to boast of his triumph, Odysseus reasserts the very ego he had concealed, and the ensuing curse condemns him to years of wandering, a reminder that in Homeric epic, brilliance unaccompanied by restraint invites divine retribution.",
+   "glossary": [
+    [
+     "hospitality",
+     "hospitalidade"
+    ],
+    [
+     "conceit",
+     "jogo engenhoso, artifício"
+    ],
+    [
+     "retribution",
+     "castigo, retribuição"
+    ],
+    [
+     "restraint",
+     "contenção"
+    ]
+   ],
+   "questions": [
+    {
+     "type": "literal",
+     "q": "Which customs does Polyphemus violate, according to the passage?",
+     "options": [
+      "The custom of sacrificing to Poseidon",
+      "The rules of naval warfare",
+      "The duty to honour the dead",
+      "The laws of hospitality"
+     ],
+     "answer": 3,
+     "why": "O texto diz que não honra as leis da hospitalidade."
+    },
+    {
+     "type": "vocabulary",
+     "q": "'Ethically ambivalent' trickery means that Odysseus's deceit",
+     "options": [
+      "is clearly wrong",
+      "is a sign of weakness",
+      "is effective but not morally clear-cut",
+      "is forbidden by the gods"
+     ],
+     "answer": 2,
+     "why": "Funciona, mas não é moralmente simples."
+    },
+    {
+     "type": "inference",
+     "q": "Why does the writer say Odysseus 'reasserts the very ego he had concealed'?",
+     "options": [
+      "By boasting under his real name he stops being 'Nobody' and draws attention to himself",
+      "He gives the giant a gift",
+      "He forgets his own name",
+      "He hides in the cave again"
+     ],
+     "answer": 0,
+     "why": "Ao revelar o nome deixa de ser 'ninguém' e volta a afirmar o seu ego."
+    },
+    {
+     "type": "structure",
+     "q": "What does 'the hero's intelligence and his self-erasure coincide' mean here?",
+     "options": [
+      "The same trick shows his cleverness and makes him 'no one'",
+      "His cleverness and his strength are equal",
+      "He erases his mistakes with intelligence",
+      "He is both wise and forgetful"
+     ],
+     "answer": 0,
+     "why": "O pseudónimo mostra a sua inteligência e, ao mesmo tempo, apaga-o."
+    },
+    {
+     "type": "interpretation",
+     "q": "What general lesson does the final clause draw?",
+     "options": [
+      "The gods always reward intelligence",
+      "Anonymity is always dangerous",
+      "Civilised societies never punish",
+      "Brilliance without self-control can bring punishment"
+     ],
+     "answer": 3,
+     "why": "'Brilliance unaccompanied by restraint invites divine retribution.'"
+    }
+   ],
+   "discussion": "Is deceit justified when used against someone who behaves savagely?",
+   "writing": "Write 150 to 200 words: Discuss the view that Odysseus's greatest enemy is his own pride."
+  }
+ }
+}
