@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-113",
+ "type": "reference",
+ "title": "The Quran: Surah 113, al-Falaq (Daybreak)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 113. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 113, "from": 1, "to": 5},
+   "glossary": [["take refuge", "refugiar-se, pedir protecção"], ["daybreak", "madrugada, romper do dia"], ["evil", "mal"], ["darkness", "escuridão"], ["sorcery", "feitiçaria"], ["envious", "invejoso"]],
+   "questions": [
+    {"type": "literal", "q": "With whom does the speaker take refuge, according to verse 1?", "options": ["The Lord of Daybreak", "The King of mankind", "The One who was begotten", "The Lord of the two Easts"], "answer": 0, "why": "O versículo 1 diz: 'I take refuge with the Lord of Daybreak.'"},
+    {"type": "vocabulary", "q": "'Take refuge' means:", "options": ["to ask for protection", "to go on a journey", "to tell a story", "to count something"], "answer": 0, "why": "'Take refuge' é procurar abrigo ou protecção."},
+    {"type": "inference", "q": "Verse 3 says 'the darkness as it gathers'. What time of day does this suggest?", "options": ["The evening, when night is coming", "The morning", "Noon", "It suggests no time at all"], "answer": 0, "why": "'As it gathers' mostra a escuridão a aumentar, e contrasta com 'Daybreak' do versículo 1."},
+    {"type": "structure", "q": "How are verses 2 to 5 built?", "options": ["Each names something from whose evil the speaker asks protection", "Each asks a different question", "Each tells a different story", "Each gives a command"], "answer": 0, "why": "Cada versículo tem 'the evil of' seguido de algo: o que Ele criou, a escuridão, os que praticam feitiçaria, um invejoso."},
+    {"type": "interpretation", "q": "Which one is NOT mentioned in the passage?", "options": ["Darkness as it gathers", "Those who practice sorcery", "An envious person", "Hunger"], "answer": 3, "why": "O texto menciona a escuridão, a feitiçaria e a inveja; não menciona a fome."}
+   ],
+   "discussion": "The speaker asks for protection from several things. What do people usually ask protection from today? Give examples.",
+   "writing": "Write 80 to 100 words: Say what the speaker asks for and what he asks protection from."
+  },
+  "C1": {
+   "passage": {"surah": 113, "from": 1, "to": 5},
+   "glossary": [["take refuge", "refugiar-se"], ["Daybreak", "romper do dia"], ["gathers", "reúne-se, aumenta"], ["sorcery", "feitiçaria"], ["envious", "invejoso"], ["envies", "inveja (verbo)"]],
+   "questions": [
+    {"type": "literal", "q": "What does the darkness do in verse 3?", "options": ["It gathers", "It leaves", "It speaks", "It falls asleep"], "answer": 0, "why": "O versículo 3 diz 'the darkness as it gathers'."},
+    {"type": "vocabulary", "q": "In 'an envious when he envies', 'envious' is used as:", "options": ["an adjective used to name a person", "a verb", "a place", "a question"], "answer": 0, "why": "'An envious' refere-se a uma pessoa, e 'he envies' usa o verbo correspondente."},
+    {"type": "inference", "q": "What contrast do verse 1 and verse 3 create?", "options": ["Between Daybreak and darkness as it gathers", "Between two kings", "Between land and sea", "Between past and future"], "answer": 0, "why": "O versículo 1 fala do romper do dia e o versículo 3 da escuridão a reunir-se."},
+    {"type": "structure", "q": "What phrase is repeated in verses 2 to 5?", "options": ["'the Lord of'", "'the evil of'", "'the hands of'", "'the King of'"], "answer": 1, "why": "'The evil of' aparece em todos os versículos de 2 a 5 e organiza a lista."},
+    {"type": "interpretation", "q": "'The evil of an envious when he envies.' What does 'when he envies' add?", "options": ["It ties the danger to the moment the envy is at work", "It says he envies only once", "It says he is asleep", "It says he lives far away"], "answer": 0, "why": "'When he envies' liga o mal ao momento em que a inveja actua."}
+   ],
+   "discussion": "The passage moves from something very general ('what He created') to specific dangers. What does this order suggest about how the speaker organises the request?",
+   "writing": "Write 120 to 150 words: Explain how the repetition in verses 2 to 5 shapes the passage."
+  },
+  "C2": {
+   "passage": {"surah": 113, "from": 1, "to": 5},
+   "glossary": [["take refuge", "refugiar-se"], ["Daybreak", "romper do dia"], ["gathers", "reúne-se"], ["those who practice sorcery", "os que praticam feitiçaria"], ["envious", "invejoso"], ["from the evil of", "do mal de"]],
+   "questions": [
+    {"type": "literal", "q": "Which is the first general danger named after verse 1?", "options": ["The evil of what He created", "The evil of darkness", "The evil of sorcery", "The evil of envy"], "answer": 0, "why": "O versículo 2 é o primeiro: 'From the evil of what He created.'"},
+    {"type": "vocabulary", "q": "'What He created' in verse 2 is:", "options": ["a very broad phrase", "a name of a person", "a place name", "a number"], "answer": 0, "why": "A expressão é muito ampla e os versículos seguintes concretizam-na."},
+    {"type": "inference", "q": "How do verses 3 to 5 relate to verse 2?", "options": ["They give specific cases after a general statement", "They contradict verse 2", "They repeat verse 1", "They change the speaker"], "answer": 0, "why": "O versículo 2 é geral; os versículos 3, 4 e 5 nomeiam casos concretos: escuridão, feitiçaria e inveja."},
+    {"type": "structure", "q": "The repetition of 'the evil of' at the start of each item is an example of:", "options": ["a repeated opening that gives the passage a steady rhythm", "a change of topic", "a question", "a quotation from another text"], "answer": 0, "why": "A repetição no início de cada item cria um ritmo regular e organiza a lista."},
+    {"type": "interpretation", "q": "Which reading is best supported by the passage?", "options": ["It names a shelter and then lists several dangers, moving from broad to specific", "It tells the story of a single event", "It gives instructions for trade", "It describes a battle"], "answer": 0, "why": "O versículo 1 diz onde procurar refúgio; os versículos 2 a 5 percorrem os perigos, do geral ao concreto."}
+   ],
+   "discussion": "Daybreak and the gathering darkness appear at opposite ends of the opening verses. What effect does this contrast have on how the reader hears the request for refuge?",
+   "writing": "Write 150 to 200 words: Analyse how the structure of verses 1 to 5 moves from shelter to danger, referring to specific words."
+  }
+ }
+}
