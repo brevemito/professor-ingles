@@ -405,8 +405,19 @@ function abrir(lv) {
   app.appendChild(el("p", "nota", lv.reference ? "A carregar a obra (ficheiro grande, pode demorar alguns segundos)..." : "A carregar..."));
   pedir(lv.file, function (err, livro) {
     if (err) { mostrarErro(err, function () { abrir(lv); }); return; }
-    limpa(app);
-    if (livro.type === "reference") { telaReferencia(livro); } else { telaLicao(livro); }
+    function mostrarLivro() {
+      limpa(app);
+      if (livro.type === "reference") { telaReferencia(livro); } else { telaLicao(livro); }
+    }
+    if (livro.surahsFrom && !livro.surahs) {
+      pedir(livro.surahsFrom, function (err2, obra) {
+        if (err2) { mostrarErro(err2, function () { abrir(lv); }); return; }
+        livro.surahs = obra.surahs;
+        mostrarLivro();
+      });
+      return;
+    }
+    mostrarLivro();
   });
 }
 
