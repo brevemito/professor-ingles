@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-031",
+ "type": "reference",
+ "title": "The Quran: Surah 31, Luqman",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 31. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz. Cada nível estuda um excerto diferente.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 31, "from": 17, "to": 19},
+   "glossary": [["observe the prayer", "cumprir a oração"], ["righteousness", "rectidão, justiça"], ["patient", "paciente"], ["arrogance", "arrogância"], ["stride", "passo, modo de andar"], ["repulsive", "repugnante"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 19, what should the person do with his voice?", "options": ["Raise it", "Hide it", "Lower it", "Sing with it"], "answer": 2, "why": "O versículo 19 diz: 'lower your voice'."},
+    {"type": "vocabulary", "q": "'Moderate your stride' means:", "options": ["run fast", "stop walking", "walk backwards", "walk at a balanced pace, not an exaggerated one"], "answer": 3, "why": "'Moderate' é manter dentro de um limite; 'stride' é o passo."},
+    {"type": "inference", "q": "Verse 18 says 'do not treat people with arrogance, nor walk proudly on earth'. What do the two parts have in common?", "options": ["They both warn against showing pride, in how you treat people and in how you walk", "They both ask you to walk faster", "They both ask you to be silent", "They both describe a journey"], "answer": 0, "why": "As duas partes avisam contra o orgulho: no modo de tratar as pessoas e no modo de andar."},
+    {"type": "structure", "q": "Verses 17 to 19 are mainly:", "options": ["A story about a journey", "A description of a battle", "Advice addressed to a son", "A list of prices"], "answer": 2, "why": "O versículo 17 começa com 'O my son' e o texto continua com conselhos até ao versículo 19."},
+    {"type": "interpretation", "q": "Which idea links the advice in verses 18 and 19?", "options": ["Modesty and moderation in behaviour, in how one walks and how one speaks", "Buying and selling", "Ways to travel", "The history of a city"], "answer": 0, "why": "O versículo 18 fala do andar sem orgulho e o versículo 19 fala de moderar o passo e baixar a voz."}
+   ],
+   "discussion": "The passage gives advice about how to walk and how to speak. Which piece of advice is most useful in everyday life? Explain why.",
+   "writing": "Write 80 to 100 words: List the pieces of advice in these verses and explain one of them."
+  },
+  "C1": {
+   "passage": {"surah": 31, "from": 13, "to": 16},
+   "glossary": [["advised", "aconselhou"], ["entrusted", "confiou"], ["hardship", "dificuldade"], ["weaning", "desmame"], ["strive", "esforçar-se, insistir"], ["mustard-seed", "grão de mostarda"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 14, what did his mother go through?", "options": ["A long journey", "Hardship upon hardship", "A famine", "A war"], "answer": 1, "why": "O versículo 14 diz: 'His mother carried him through hardship upon hardship'."},
+    {"type": "vocabulary", "q": "In verse 15, 'strive' in 'if they strive to have you associate with Me' is closest to:", "options": ["refuse", "forget", "try hard", "wait"], "answer": 2, "why": "'Strive' é esforçar-se ou insistir."},
+    {"type": "inference", "q": "Verse 15 says 'do not obey them. But keep them company in this life, in kindness.' What does this combination show?", "options": ["That parents should never be visited", "That obedience is always required", "That kindness is not needed", "That refusing to obey in one matter does not cancel kindness towards parents"], "answer": 3, "why": "O texto diz para não obedecer nesse ponto, mas manter a companhia dos pais com bondade."},
+    {"type": "structure", "q": "How is the passage organised?", "options": ["It is one continuous story", "Luqman's advice to his son (verses 13 and 16) surrounds a section about parents (verses 14 and 15)", "It is a dialogue between two brothers", "It is a list of numbers"], "answer": 1, "why": "Os versículos 13 e 16 estão entre aspas e começam com 'O my son'; os versículos 14 e 15 falam dos pais."},
+    {"type": "interpretation", "q": "Verse 16 says even the weight of a mustard-seed will be brought to light. What is the effect of using such a small weight?", "options": ["It stresses that even the smallest thing is included", "It suggests that things are heavy", "It suggests that seeds are valuable", "It says the seed is hidden only in the heavens"], "answer": 0, "why": "'Even if it were the weight of a mustard-seed' mostra que nem a coisa mais pequena fica de fora."}
+   ],
+   "discussion": "The passage moves from advice (verse 13) to the duty towards parents (verses 14 and 15) and back to advice (verse 16). How does this movement shape the reader's understanding of the son's responsibilities?",
+   "writing": "Write 120 to 150 words: Explain how verses 14 and 15 are connected to the advice in verses 13 and 16."
+  },
+  "C2": {
+   "passage": {"surah": 31, "from": 12, "to": 19},
+   "glossary": [["endowed", "dotou"], ["wisdom", "sabedoria"], ["appreciative", "agradecido"], ["unappreciative", "ingrato"], ["showoffs", "exibicionistas"], ["repulsive", "repugnante"]],
+   "questions": [
+    {"type": "literal", "q": "What does verse 12 say about the person who is appreciative?", "options": ["He is appreciative for the benefit of his neighbour", "He is appreciative for the benefit of his own soul", "He becomes unappreciative", "He gives away his wealth"], "answer": 1, "why": "O versículo 12 diz que quem é agradecido é-o em benefício da sua própria alma."},
+    {"type": "vocabulary", "q": "In 'arrogant showoffs' (verse 18), what does 'showoffs' add to 'arrogant'?", "options": ["The idea of hiding", "The idea of silence", "The idea of displaying pride for others to see", "The idea of poverty"], "answer": 2, "why": "'Showoffs' são os que exibem, por isso acrescenta a ideia de mostrar o orgulho aos outros."},
+    {"type": "inference", "q": "Verse 19 ends with the comparison 'The most repulsive of voices is the donkey’s voice.' What does this comparison do?", "options": ["It changes the topic to animals", "It contradicts verse 18", "It asks a question", "It gives a vivid, concrete image to support the advice to lower one's voice"], "answer": 3, "why": "A comparação dá uma imagem concreta que reforça o conselho anterior, 'lower your voice'."},
+    {"type": "structure", "q": "Which description of the passage's progression is best supported?", "options": ["It moves from a story of a journey to a battle", "It moves from a general call to gratitude, through belief, parents and accountability, to concrete advice on conduct", "It moves from many speakers to one", "It has no order"], "answer": 1, "why": "O versículo 12 fala de sabedoria e gratidão; 13 a 16 tratam de crença, pais e responsabilidade; 17 a 19 dão conselhos concretos de conduta."},
+    {"type": "interpretation", "q": "Which statement is best supported by the passage as a whole?", "options": ["The passage deals only with belief", "The passage deals only with everyday manners", "The passage combines large themes (gratitude, belief, duty to parents) with small everyday behaviours (how to walk, how loudly to speak)", "The passage is only about parents"], "answer": 2, "why": "O texto passa de grandes temas (versículos 12 a 16) a comportamentos pequenos do dia a dia (versículos 18 e 19)."}
+   ],
+   "discussion": "The advice moves from very large ideas to very small daily habits, such as the pace of walking. What is gained by putting them side by side in one passage?",
+   "writing": "Write 150 to 200 words: Analyse how the passage moves from general principles to concrete conduct, referring to specific verses and words."
+  }
+ }
+}
