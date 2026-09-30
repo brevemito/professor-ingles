@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-024",
+ "type": "reference",
+ "title": "The Quran: Surah 24, an-Nur (The Light)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 24. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz. Cada nível estuda um excerto diferente.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 24, "from": 36, "to": 38},
+   "glossary": [["celebrated", "celebrado, louvado"], ["glorified", "glorificado"], ["trading", "comércio, troca"], ["distracts", "distrai"], ["alms", "esmolas"], ["reward", "recompensar"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 36, when is He glorified in these houses?", "options": ["Only at night", "Morning and evening", "Only on one day", "At noon"], "answer": 1, "why": "O versículo 36 diz: 'morning and evening'."},
+    {"type": "vocabulary", "q": "In verse 37, 'distracts them from' means that trading and commerce do not:", "options": ["help them with", "take their attention away from", "pay them for", "protect them from"], "answer": 1, "why": "'Distract' é desviar a atenção; o texto diz que nem o comércio os desvia da lembrança, das orações e das esmolas."},
+    {"type": "inference", "q": "Verse 37 says neither trading nor commerce distracts these men. What does this suggest?", "options": ["That they do not work", "That they dislike trade", "That they have no money", "That trade does not take their attention away from remembrance, prayers and alms"], "answer": 3, "why": "O texto diz que o comércio não os distrai da lembrança, das orações e das esmolas."},
+    {"type": "structure", "q": "How is the passage organised?", "options": ["It is a dialogue", "Verse 36 gives the place, verse 37 the men, verse 38 the reward", "It is a story with names", "It lists laws by number"], "answer": 1, "why": "O versículo 36 fala das casas, o 37 dos homens e o 38 da recompensa."},
+    {"type": "interpretation", "q": "Which sentence best sums up verse 38?", "options": ["Those men will be fined", "Those men will be rewarded and increased from His bounty", "Those men will be forgotten", "Those men will move away"], "answer": 1, "why": "O versículo 38 diz que os recompensará pelo melhor do que fizeram e os aumentará da sua generosidade."}
+   ],
+   "discussion": "The passage describes people who keep their attention on what matters even when they are busy with work. What helps people do this in daily life?",
+   "writing": "Write 80 to 100 words: Say who the men in verse 37 are and what the passage says about them."
+  },
+  "C1": {
+   "passage": {"surah": 24, "from": 27, "to": 29},
+   "glossary": [["permission", "licença, autorização"], ["greeted", "cumprimentou"], ["occupants", "ocupantes"], ["turn back", "voltar atrás"], ["proper", "adequado"], ["uninhabited", "desabitadas"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 27, what must a person do before entering homes other than his own?", "options": ["Wait for a written invitation", "Bring a gift", "Ask permission and greet the occupants", "Enter quietly"], "answer": 2, "why": "O versículo 27 diz: 'until you have asked permission and greeted their occupants'."},
+    {"type": "vocabulary", "q": "In verse 29, 'uninhabited houses' are houses:", "options": ["where nobody lives", "that are very large", "that are new", "that belong to a king"], "answer": 0, "why": "'Uninhabited' quer dizer sem habitantes."},
+    {"type": "inference", "q": "Verse 28 says 'if it is said to you, “Turn back,” then turn back.' What does this show?", "options": ["That the visitor may enter anyway", "That a refusal to let you in must be accepted", "That the house is empty", "That the visitor is a guest of honour"], "answer": 1, "why": "O texto manda voltar atrás quando alguém o diz, por isso a recusa deve ser aceite."},
+    {"type": "structure", "q": "Verses 27 and 28 give a rule. What does verse 29 add?", "options": ["An exception", "A rule about clothes", "A story", "A question"], "answer": 0, "why": "O versículo 29 diz que não há culpa em entrar em casas desabitadas onde há bens do visitante."},
+    {"type": "interpretation", "q": "Which idea links the three verses?", "options": ["Travelling long distances", "Buying and selling", "Naming children", "Respect for other people's homes and the conditions for entering them"], "answer": 3, "why": "Os três versículos tratam de entrar em casas: o pedido de licença, o respeito pela recusa e uma excepção."}
+   ],
+   "discussion": "The passage sets a rule and then an exception. How does that structure make the rule easier to apply?",
+   "writing": "Write 120 to 150 words: Explain how verse 29 relates to the rule in verses 27 and 28."
+  },
+  "C2": {
+   "passage": {"surah": 24, "from": 35, "to": 35},
+   "glossary": [["allegory", "alegoria"], ["pillar", "pilar"], ["lamp", "lâmpada"], ["fueled", "alimentada"], ["illuminate", "iluminar"], ["parables", "parábolas"]],
+   "questions": [
+    {"type": "literal", "q": "According to the verse, what is the glass like?", "options": ["A blessed tree", "A brilliant planet", "A pillar", "A lamp"], "answer": 1, "why": "O versículo diz: 'The glass is like a brilliant planet'."},
+    {"type": "vocabulary", "q": "In the verse, 'allegory' introduces:", "options": ["a list of laws", "a question", "a comparison worked out through a picture with several parts", "a place name"], "answer": 2, "why": "Depois de 'allegory' o texto constrói uma imagem com várias partes: pilar, lâmpada, vidro, planeta, árvore e óleo."},
+    {"type": "inference", "q": "The verse says the oil 'would almost illuminate, even if no fire has touched it'. What does the phrase emphasise?", "options": ["That fire is dangerous", "That the tree is small", "How bright the oil already is, before any fire", "That there is no lamp"], "answer": 2, "why": "'Even if no fire has touched it' sublinha que o óleo quase ilumina antes de qualquer fogo."},
+    {"type": "structure", "q": "'Light upon Light' comes after the description of the lamp, glass, tree and oil. What does it do in the structure of the verse?", "options": ["It introduces a new speaker", "It gathers the layers of the picture into one short phrase", "It begins a list of laws", "It ends the passage"], "answer": 1, "why": "'Light upon Light' resume as camadas da imagem numa frase curta baseada em repetição."},
+    {"type": "interpretation", "q": "Which description of the verse is best supported?", "options": ["A dialogue between two speakers", "A list of rules", "A story with a beginning and an end", "A statement, then a picture built in layers, then closing remarks about guidance, parables and knowledge"], "answer": 3, "why": "O versículo começa com uma afirmação, constrói a imagem em camadas e termina com frases sobre orientação, parábolas e conhecimento."}
+   ],
+   "discussion": "The verse describes light through a chain of images (pillar, lamp, glass, planet, tree, oil). How does adding one image after another shape the way the reader pictures the idea of light?",
+   "writing": "Write 150 to 200 words: Analyse how the images in this verse are built up, referring to specific words."
+  }
+ }
+}
