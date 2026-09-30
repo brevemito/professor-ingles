@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-111",
+ "type": "reference",
+ "title": "The Quran: Surah 111, al-Masad (Thorns)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 111. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 111, "from": 1, "to": 5},
+   "glossary": [["condemned", "condenado"], ["wealth", "riqueza"], ["did not avail him", "não lhe serviu de nada"], ["acquired", "adquiriu, ganhou"], ["firewood", "lenha"], ["thorns", "espinhos"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 2, what did not help him?", "options": ["His wife", "His wealth and what he acquired", "His hands", "His friends"], "answer": 1, "why": "O versículo 2 diz que a riqueza dele e o que ele adquiriu não lhe serviram de nada."},
+    {"type": "vocabulary", "q": "'His wealth did not avail him' means his wealth:", "options": ["was of no use to him", "was taken by his wife", "was very large", "was hidden"], "answer": 0, "why": "'Avail' aqui é ser útil; 'did not avail him' é não lhe serviu de nada."},
+    {"type": "inference", "q": "What can we infer from verses 1 and 2 together?", "options": ["Wealth protected him", "Wealth did not protect him from being condemned", "He had no wealth", "He gave his wealth away"], "answer": 1, "why": "O versículo 1 diz que ele é condenado e o versículo 2 diz que a riqueza não lhe serviu."},
+    {"type": "structure", "q": "How many people does the passage speak about?", "options": ["One", "Two: a man and his wife", "Three", "A whole village"], "answer": 1, "why": "Os versículos 1 a 3 falam dele e os versículos 4 e 5 falam da mulher."},
+    {"type": "interpretation", "q": "Which contrast does the passage draw?", "options": ["Between day and night", "Between his wealth and what he will face", "Between two brothers", "Between a city and a desert"], "answer": 1, "why": "O versículo 2 fala do que ele tinha e o versículo 3 diz que vai arder num Fogo Flamejante."}
+   ],
+   "discussion": "The passage says that wealth and possessions did not help. What does this suggest about the value of possessions? Give your opinion with reasons.",
+   "writing": "Write 80 to 100 words: Say what the verses tell us about the man and about his wife."
+  },
+  "C1": {
+   "passage": {"surah": 111, "from": 1, "to": 5},
+   "glossary": [["condemned", "condenado"], ["avail", "ser útil"], ["acquired", "adquiriu"], ["Flaming Fire", "Fogo Flamejante"], ["firewood carrier", "carregadora de lenha"], ["a rope of thorns", "uma corda de espinhos"]],
+   "questions": [
+    {"type": "literal", "q": "What does verse 3 say will happen to him?", "options": ["He will travel", "He will burn in a Flaming Fire", "He will lose his hands", "He will be forgotten"], "answer": 1, "why": "O versículo 3 diz: 'He will burn in a Flaming Fire.'"},
+    {"type": "vocabulary", "q": "Which is closest in meaning to 'avail' in 'did not avail him'?", "options": ["be of use to", "escape from", "be afraid of", "speak to"], "answer": 0, "why": "'Did not avail him' quer dizer que não lhe foi útil."},
+    {"type": "inference", "q": "Why might verse 2 mention both 'wealth' and 'what he acquired'?", "options": ["To stress that nothing he owned or gained helped him", "To say his wealth and his gains were different sizes", "To ask a question about money", "To describe his house"], "answer": 0, "why": "Ao juntar a riqueza e o que ele adquiriu, o texto cobre tudo o que ele possuía ou ganhou."},
+    {"type": "structure", "q": "Verse 1 repeats 'condemned'. What does the repetition do?", "options": ["It changes the topic", "It emphasises the judgement, first on his hands and then on him", "It introduces his wife", "It asks a question"], "answer": 1, "why": "'Condemned are the hands... and he is condemned' repete o julgamento, primeiro nas mãos e depois na pessoa."},
+    {"type": "interpretation", "q": "Which statement is best supported by the passage?", "options": ["His possessions changed what is described in verse 3", "His possessions did not change what is described in verse 3", "His wife owned more than he did", "The passage says nothing about possessions"], "answer": 1, "why": "O versículo 2 diz que a riqueza e o que adquiriu não lhe serviram de nada, e o versículo 3 descreve o que o espera."}
+   ],
+   "discussion": "The text names a specific man and his wife. How does naming individuals change the way a reader receives a warning, compared with a general statement?",
+   "writing": "Write 120 to 150 words: Explain how verses 2 and 3 are linked in meaning."
+  },
+  "C2": {
+   "passage": {"surah": 111, "from": 1, "to": 5},
+   "glossary": [["condemned", "condenado"], ["avail", "ser útil"], ["Flaming Fire", "Fogo Flamejante"], ["the firewood carrier", "a carregadora de lenha"], ["a rope of thorns", "uma corda de espinhos"], ["the hands of", "as mãos de"]],
+   "questions": [
+    {"type": "literal", "q": "What is around her neck, according to verse 5?", "options": ["A chain of gold", "A rope of thorns", "A rope of firewood", "A scarf"], "answer": 1, "why": "O versículo 5 diz: 'Around her neck is a rope of thorns.'"},
+    {"type": "vocabulary", "q": "'The hands of' in verse 1 is an example of:", "options": ["a part standing for the whole person", "a question", "a comparison using 'like'", "a list"], "answer": 0, "why": "As mãos representam a pessoa inteira; é uma figura em que a parte substitui o todo."},
+    {"type": "inference", "q": "What do 'Flaming Fire', 'firewood' and 'thorns' have in common as images?", "options": ["They all describe water", "They form a related set of images around burning and harshness", "They all describe a journey", "They all describe wealth"], "answer": 1, "why": "O fogo (versículo 3), a lenha (versículo 4) e os espinhos (versículo 5) criam um conjunto de imagens ligadas a arder e a algo áspero."},
+    {"type": "structure", "q": "Verse 3 says 'burn in a Flaming Fire' and verse 4 says 'the firewood carrier'. What link do the words create?", "options": ["A link between fire and firewood", "A link between wealth and thorns", "A link between hands and neck", "No link at all"], "answer": 0, "why": "'Fire' no versículo 3 e 'firewood' no versículo 4 ligam os dois versículos pelo campo do fogo."},
+    {"type": "interpretation", "q": "Which reading of the structure is best supported?", "options": ["Verses 1 and 2 give the judgement and the failure of possessions; verse 3 gives the outcome; verses 4 and 5 extend the picture to his wife with concrete images", "The passage is a list of ten separate facts", "The passage is a dialogue", "The passage moves from the future to the past"], "answer": 0, "why": "Cada grupo de versículos tem uma função clara: julgamento e riqueza (1 e 2), consequência (3) e descrição da mulher (4 e 5)."}
+   ],
+   "discussion": "The passage uses concrete, physical images (hands, fire, firewood, rope, thorns) rather than abstract terms. How does this shape its impact on the reader?",
+   "writing": "Write 150 to 200 words: Analyse how imagery and structure work together in the five verses, referring to specific words."
+  }
+ }
+}
