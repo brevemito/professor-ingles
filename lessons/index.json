@@ -7,11 +7,7 @@
   "category": "Filosofia",
   "period": "Grécia antiga, século IV a.C.",
   "description": "Sócrates conta uma imagem sobre prisioneiros numa caverna para explicar a diferença entre aparência e verdade.",
-  "levels": [
-   "B2",
-   "C1",
-   "C2"
-  ]
+  "levels": ["B2", "C1", "C2"]
  },
  {
   "id": "odisseia",
@@ -21,11 +17,7 @@
   "category": "Poesia épica",
   "period": "Grécia antiga, século VIII a.C. (aprox.)",
   "description": "Depois da guerra de Tróia, Ulisses tenta voltar a casa. Neste episódio, a inteligência vence a força bruta, mas o orgulho custa caro.",
-  "levels": [
-   "B2",
-   "C1",
-   "C2"
-  ]
+  "levels": ["B2", "C1", "C2"]
  },
  {
   "id": "iliada",
@@ -35,11 +27,7 @@
   "category": "Poesia épica",
   "period": "Grécia antiga, século VIII a.C. (aprox.)",
   "description": "A história de um guerreiro cuja ira causa sofrimento a todos, e de um final em que dois inimigos choram juntos.",
-  "levels": [
-   "B2",
-   "C1",
-   "C2"
-  ]
+  "levels": ["B2", "C1", "C2"]
  },
  {
   "id": "alcorao",
@@ -49,11 +37,51 @@
   "category": "Texto sagrado do Islão",
   "period": "Século VII",
   "description": "Obra integral de referência, com as 114 suratas e leitura por surata e versículos. Cada nível estuda um excerto da Surata José (Yusuf).",
-  "levels": [
-   "B2",
-   "C1",
-   "C2"
-  ],
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-112",
+  "file": "alcorao-112.json",
+  "title": "The Quran: Surah 112, al-Ikhlas (Monotheism)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Uma surata de quatro versículos, muito curta e muito conhecida. Cada nível estuda o texto completo com notas, perguntas e actividades diferentes.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-111",
+  "file": "alcorao-111.json",
+  "title": "The Quran: Surah 111, al-Masad (Thorns)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Uma surata de cinco versículos sobre um homem e a sua mulher. O estudo fica no que o texto diz: a riqueza, o fogo e as imagens concretas.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-113",
+  "file": "alcorao-113.json",
+  "title": "The Quran: Surah 113, al-Falaq (Daybreak)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Uma surata de cinco versículos que pede refúgio. Cada nível estuda o texto completo, com atenção à estrutura e às repetições.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-114",
+  "file": "alcorao-114.json",
+  "title": "The Quran: Surah 114, an-Nas (Mankind)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "A última surata, com seis versículos. Cada nível estuda o texto completo, com atenção aos títulos repetidos e ao perigo descrito.",
+  "levels": ["B2", "C1", "C2"],
   "reference": true
  }
 ]
