@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-112",
+ "type": "reference",
+ "title": "The Quran: Surah 112, al-Ikhlas (Monotheism)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 112. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 112, "from": 1, "to": 4},
+   "glossary": [["say", "diz (ordem)"], ["the One", "o Único"], ["the Absolute", "o Absoluto"], ["begets", "gera, tem como filho"], ["begotten", "gerado"], ["comparable", "comparável"]],
+   "questions": [
+    {"type": "literal", "q": "How does the passage begin?", "options": ["With a story about a man", "With the word 'Say'", "With a question to the reader", "With a list of places"], "answer": 1, "why": "O versículo 1 começa com 'Say,' e continua com uma afirmação."},
+    {"type": "vocabulary", "q": "In verse 3, 'begets not' is closest in meaning to:", "options": ["does not speak", "does not have children", "does not move", "does not see"], "answer": 1, "why": "'Beget' quer dizer gerar; 'begets not' quer dizer que não gera. A seguir, 'nor was He begotten' nega também que tenha sido gerado."},
+    {"type": "inference", "q": "What do verses 3 and 4 together tell the reader?", "options": ["That He has many equals", "That He is like other beings", "That nothing and no one is like Him", "That He is unknown"], "answer": 2, "why": "O versículo 3 nega que gere e que tenha sido gerado, e o versículo 4 diz que nada é comparável a Ele."},
+    {"type": "structure", "q": "What does verse 3 do?", "options": ["It denies two things", "It asks two questions", "It gives two commands", "It lists two places"], "answer": 0, "why": "'Begets not, nor was He begotten' contém duas negações: uma sobre gerar e outra sobre ter sido gerado."},
+    {"type": "interpretation", "q": "Which sentence best sums up the passage?", "options": ["It tells the story of a family", "It describes one Being and says nothing is like Him", "It gives rules for trade", "It describes a long journey"], "answer": 1, "why": "Os quatro versículos afirmam quem Ele é (o Único, o Absoluto) e negam que algo lhe seja comparável."}
+   ],
+   "discussion": "The passage uses short, direct sentences. Why can short sentences be effective when a text wants to be clear and easy to remember?",
+   "writing": "Write 80 to 100 words: Explain in your own words what the four verses say."
+  },
+  "C1": {
+   "passage": {"surah": 112, "from": 1, "to": 4},
+   "glossary": [["the Absolute", "o Absoluto"], ["begets", "gera"], ["begotten", "gerado"], ["comparable", "comparável"], ["nor", "nem"], ["nothing", "nada"]],
+   "questions": [
+    {"type": "literal", "q": "What is the second title given in the passage?", "options": ["The One", "The Absolute", "The Gracious", "The King"], "answer": 1, "why": "O versículo 1 diz 'the One' e o versículo 2 diz 'the Absolute'."},
+    {"type": "vocabulary", "q": "In 'nor was He begotten', the word 'nor':", "options": ["continues the negative of the previous clause", "introduces a condition", "introduces a contrast", "asks a question"], "answer": 0, "why": "'Nor' junta uma segunda negação à primeira: não gera, nem foi gerado."},
+    {"type": "inference", "q": "What can the reader infer from the order of the verses, from 'the One' to 'nothing comparable'?", "options": ["The passage moves from a statement of identity to the denial of any equal", "The passage moves from a question to an answer", "The passage moves from past to future", "The passage moves from one place to another"], "answer": 0, "why": "Os versículos 1 e 2 dizem quem Ele é; o versículo 3 nega gerar e ser gerado; o versículo 4 nega qualquer comparação."},
+    {"type": "structure", "q": "The passage starts with 'Say,' and closes with a quotation mark at the end of verse 4. What effect does this have?", "options": ["It shows a dialogue between two speakers", "It frames the whole passage as words the reader is told to say", "It marks the text as a question", "It shows the words come from an old poem"], "answer": 1, "why": "'Say,' é uma ordem dirigida ao leitor e as aspas fecham no versículo 4, por isso o texto inteiro fica enquadrado como palavras a dizer."},
+    {"type": "interpretation", "q": "Which statement is best supported by the text?", "options": ["It defines only by comparing with other beings", "It tells events in time order", "It defines by affirmation (the One, the Absolute) and by negation (no begetting, no comparison)", "It argues using examples from nature"], "answer": 2, "why": "Há duas afirmações (versículos 1 e 2) e negações (versículos 3 e 4). O texto não faz comparações nem conta acontecimentos."}
+   ],
+   "discussion": "A definition can say what something is and what it is not. How does this passage use both, and what is gained by combining them?",
+   "writing": "Write 120 to 150 words: Explain how verses 3 and 4 develop the idea introduced in verses 1 and 2."
+  },
+  "C2": {
+   "passage": {"surah": 112, "from": 1, "to": 4},
+   "glossary": [["the Absolute", "o Absoluto"], ["begets not", "não gera (ordem arcaica)"], ["begotten", "gerado"], ["nothing comparable", "nada comparável"], ["there is nothing", "não há nada"], ["Say,", "Diz, (imperativo)"]],
+   "questions": [
+    {"type": "literal", "q": "What is the final claim of the passage?", "options": ["He is the One", "He is the Absolute", "There is nothing comparable to Him", "He was not begotten"], "answer": 2, "why": "O versículo 4, o último, diz 'there is nothing comparable to Him'."},
+    {"type": "vocabulary", "q": "'Begets not' departs from ordinary modern word order. What effect does this give?", "options": ["An elevated, formal tone, close to a declaration", "An informal, chatty tone", "A tone of doubt", "A tone of a question"], "answer": 0, "why": "A negação depois do verbo ('begets not') é uma ordem arcaica e dá um registo solene, próprio de uma declaração."},
+    {"type": "inference", "q": "Which reading of 'the Absolute' fits best with verses 3 and 4?", "options": ["Dependent on other beings", "Not derived from, and not matched by, anything else", "Similar to all other beings", "Hidden from everyone"], "answer": 1, "why": "Se não gera, não foi gerado e nada lhe é comparável, o texto sugere algo que não deriva de nada nem se iguala a nada."},
+    {"type": "structure", "q": "How does verse 4 relate to verse 3?", "options": ["It repeats verse 3 word for word", "It contradicts verse 3", "It widens the denial from parentage to any comparison at all", "It introduces a new speaker"], "answer": 2, "why": "O versículo 3 nega dois aspectos concretos (gerar e ser gerado); o versículo 4 alarga a negação a qualquer comparação."},
+    {"type": "interpretation", "q": "Which description of the rhetorical pattern is most accurate?", "options": ["Two affirmations, then a double denial, then a general denial", "A question and an answer", "A story with a moral", "A list of commands"], "answer": 0, "why": "Versículos 1 e 2: afirmações. Versículo 3: dupla negação. Versículo 4: negação geral."}
+   ],
+   "discussion": "The passage is only four verses long, yet it moves from affirmation to negation. How does this compact structure shape the way the reader receives its message?",
+   "writing": "Write 150 to 200 words: Analyse the rhetorical structure of the four verses, referring to specific words and to the pattern of affirmation and negation."
+  }
+ }
+}
