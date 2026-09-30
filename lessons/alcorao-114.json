@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-114",
+ "type": "reference",
+ "title": "The Quran: Surah 114, an-Nas (Mankind)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 114. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 114, "from": 1, "to": 6},
+   "glossary": [["seek refuge", "procurar refúgio"], ["mankind", "a humanidade"], ["sneaky", "sorrateiro"], ["whisperer", "aquele que sussurra"], ["whispers", "sussurra"], ["jinn", "génios (jinn)"]],
+   "questions": [
+    {"type": "literal", "q": "Which titles does the speaker give in verses 1 to 3?", "options": ["Lord, King and God of mankind", "Lord, Judge and Guide", "King, Teacher and Friend", "Creator, Father and Ruler"], "answer": 0, "why": "Os versículos 1, 2 e 3 dizem: 'Lord of mankind', 'King of mankind' e 'God of mankind'."},
+    {"type": "vocabulary", "q": "A 'whisperer' is someone who:", "options": ["whispers", "shouts", "sings", "sleeps"], "answer": 0, "why": "'Whisperer' vem do verbo 'whisper' (sussurrar)."},
+    {"type": "inference", "q": "What does verse 5 suggest about how the whisperer acts?", "options": ["Quietly, reaching into people's hearts", "By shouting in the street", "By writing letters", "By fighting"], "answer": 0, "why": "O versículo 5 diz que ele sussurra 'into the hearts of people', e 'sneaky' reforça a ideia de algo escondido."},
+    {"type": "structure", "q": "Which two words repeat in verses 1, 2 and 3?", "options": ["'of mankind'", "'the evil'", "'daybreak'", "'the hands'"], "answer": 0, "why": "Os três primeiros versículos terminam em 'of mankind'."},
+    {"type": "interpretation", "q": "According to verse 6, who can the whisperer be?", "options": ["Only a king", "Among jinn and among people", "Only an animal", "Only a child"], "answer": 1, "why": "O versículo 6 diz: 'From among jinn and among people.'"}
+   ],
+   "discussion": "The speaker uses three different titles for the same one he takes refuge in. Why might a text repeat 'of mankind' three times?",
+   "writing": "Write 80 to 100 words: Say who the speaker takes refuge in and what he wants protection from."
+  },
+  "C1": {
+   "passage": {"surah": 114, "from": 1, "to": 6},
+   "glossary": [["seek refuge", "procurar refúgio"], ["sneaky", "sorrateiro"], ["whisperer", "aquele que sussurra"], ["whispers into", "sussurra para dentro de"], ["hearts", "corações"], ["from among", "de entre"]],
+   "questions": [
+    {"type": "literal", "q": "What does the whisperer do, according to verse 5?", "options": ["He whispers into the hearts of people", "He carries firewood", "He gathers darkness", "He rules a kingdom"], "answer": 0, "why": "O versículo 5 diz: 'Who whispers into the hearts of people.'"},
+    {"type": "vocabulary", "q": "What does the adjective 'sneaky' add to 'whisperer'?", "options": ["A sense of hidden, quiet action", "A sense of loud action", "A sense of a large size", "A sense of great age"], "answer": 0, "why": "'Sneaky' descreve algo que actua às escondidas, o que combina com sussurrar."},
+    {"type": "inference", "q": "Why might the text say 'into the hearts' and not 'into the ears'?", "options": ["To show that the whisper reaches the inside of people", "To say the whisperer cannot speak", "To say the whisperer is far away", "To say the whisperer is a child"], "answer": 0, "why": "'Hearts' aponta para o interior das pessoas."},
+    {"type": "structure", "q": "What happens at verse 4 in the structure of the passage?", "options": ["The titles end and the danger begins", "A new speaker appears", "A story begins", "A list of places begins"], "answer": 0, "why": "Os versículos 1 a 3 dão títulos; o versículo 4 começa com 'From the evil of' e nomeia o perigo."},
+    {"type": "interpretation", "q": "Which statement is best supported by the text?", "options": ["Three titles come first, and then one danger is named", "One title comes first, and then three dangers", "The passage names no danger", "The passage names no title"], "answer": 0, "why": "Há três títulos (versículos 1 a 3) e um único perigo, o 'sneaky whisperer' (versículos 4 a 6)."}
+   ],
+   "discussion": "The passage builds three titles before naming the danger. How does this order affect the way the reader experiences the request for refuge?",
+   "writing": "Write 120 to 150 words: Explain how the passage is organised, from verse 1 to verse 6."
+  },
+  "C2": {
+   "passage": {"surah": 114, "from": 1, "to": 6},
+   "glossary": [["seek refuge", "procurar refúgio"], ["the sneaky whisperer", "o sussurrador sorrateiro"], ["whispers into the hearts", "sussurra para dentro dos corações"], ["from among jinn and among people", "de entre jinn e de entre pessoas"], ["mankind", "a humanidade"], ["the God of", "o Deus de"]],
+   "questions": [
+    {"type": "literal", "q": "What does verse 6 add to the description of the whisperer?", "options": ["It says he comes from among jinn and among people", "It says he is a king", "It says he carries firewood", "It says he is a stranger"], "answer": 0, "why": "O versículo 6 fecha a descrição com 'From among jinn and among people.'"},
+    {"type": "vocabulary", "q": "In 'whispers into the hearts', the preposition 'into' suggests:", "options": ["entering a space, the inside of people", "leaving a place", "standing beside", "going around"], "answer": 0, "why": "'Into' dá a ideia de entrar, e o que se atinge é o interior das pessoas."},
+    {"type": "inference", "q": "What effect does the three-part sequence 'Lord... King... God of mankind' have?", "options": ["It builds up a repeated pattern before the danger is named", "It changes the speaker", "It ends the passage", "It introduces a story"], "answer": 0, "why": "A repetição de 'of mankind' três vezes cria um padrão que prepara a entrada do perigo no versículo 4."},
+    {"type": "structure", "q": "How does verse 6 relate to verses 4 and 5?", "options": ["It specifies where the whisperer comes from", "It contradicts them", "It repeats verse 1", "It introduces a new speaker"], "answer": 0, "why": "O versículo 6 acrescenta uma especificação aos versículos 4 e 5."},
+    {"type": "interpretation", "q": "Which description of the passage is best supported?", "options": ["Three titles, then one danger described in three verses", "Six unrelated statements", "A dialogue between two people", "A story with a beginning, middle and end"], "answer": 0, "why": "Versículos 1 a 3: títulos. Versículos 4 a 6: o perigo, com nome, acção e origem."}
+   ],
+   "discussion": "The passage names a danger that acts quietly and from within. How do the words 'sneaky', 'whispers' and 'hearts' work together to create that impression?",
+   "writing": "Write 150 to 200 words: Analyse how repetition and structure shape the passage, referring to specific words in verses 1 to 6."
+  }
+ }
+}
