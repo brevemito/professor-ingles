@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-055",
+ "type": "reference",
+ "title": "The Quran: Surah 55, ar-Rahman (The Compassionate)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 55. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz. Cada nível estuda um excerto diferente.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 55, "from": 1, "to": 13},
+   "glossary": [["taught", "ensinou"], ["clear expression", "expressão clara"], ["plan", "plano"], ["balance", "balança, equilíbrio"], ["justice", "justiça"], ["grains", "grãos"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 4, what did He teach man?", "options": ["How to build ships", "Clear expression", "How to farm", "How to count"], "answer": 1, "why": "O versículo 4 diz que Ele ensinou ao homem 'clear expression'."},
+    {"type": "vocabulary", "q": "'Maintain the weights with justice' (verse 9) is closest to:", "options": ["Carry heavy things", "Sell things at a high price", "Use weights fairly", "Weigh yourself often"], "answer": 2, "why": "'Weights' são pesos e 'justice' é justiça; o versículo pede que se use o peso de forma justa."},
+    {"type": "inference", "q": "Verses 5 to 7 mention the sun, the moon, the stars, the trees and the sky. What do these verses suggest?", "options": ["That nature is dangerous", "That the world follows an order, with a plan and a balance", "That the sun is bigger than the earth", "That trees can speak"], "answer": 1, "why": "O versículo 5 fala de 'according to plan' e o versículo 7 diz que Ele 'set up the balance'."},
+    {"type": "structure", "q": "What kind of sentence is verse 13?", "options": ["A command", "A story", "A question", "A list of fruits"], "answer": 2, "why": "O versículo 13 é uma pergunta: 'So which of your Lord’s marvels will you deny?'"},
+    {"type": "interpretation", "q": "Which sentence best sums up verses 10 to 12?", "options": ["The earth is empty", "The earth is covered by sea", "The earth is very old", "The earth is set up for the creatures and holds fruits, palms, grains and fragrant plants"], "answer": 3, "why": "Os versículos 10 a 12 dizem que a terra foi posta para as criaturas e nomeiam frutos, palmeiras, grãos e plantas perfumadas."}
+   ],
+   "discussion": "Verse 13 asks a question instead of making a statement. Why might a text ask its reader a question like this?",
+   "writing": "Write 80 to 100 words: Describe what the verses say about the sky, the earth and the balance."
+  },
+  "C1": {
+   "passage": {"surah": 55, "from": 14, "to": 25},
+   "glossary": [["clay", "barro"], ["bricks", "tijolos"], ["fusion", "fusão, mistura"], ["barrier", "barreira"], ["overrun", "ultrapassar, invadir"], ["landmarks", "pontos de referência"]],
+   "questions": [
+    {"type": "literal", "q": "From what was man created, according to verse 14?", "options": ["A fusion of fire", "Hard clay, like bricks", "Pearls and coral", "Water from the two seas"], "answer": 1, "why": "O versículo 14 diz que o homem foi criado 'from hard clay, like bricks'; a fusão de fogo é a origem dos jinn (versículo 15)."},
+    {"type": "vocabulary", "q": "In verse 20, 'a barrier, which they do not overrun' means that the two seas:", "options": ["flow over the barrier", "destroy the barrier", "do not cross the barrier between them", "avoid the ships"], "answer": 2, "why": "'Overrun' é ultrapassar; os dois mares não passam a barreira que os separa."},
+    {"type": "inference", "q": "Verse 24 says the ships are 'raised above the sea like landmarks'. What does the comparison suggest?", "options": ["That the ships are heavy", "That the ships stand out on the sea, like markers you can see from far away", "That the ships are sinking", "That the ships are hidden"], "answer": 1, "why": "Um 'landmark' é um ponto de referência que se destaca; a comparação sugere navios bem visíveis sobre o mar."},
+    {"type": "structure", "q": "How many times does the refrain 'So which of your Lord’s marvels will you deny?' appear in verses 14 to 25?", "options": ["3", "4", "5", "6"], "answer": 2, "why": "A pergunta aparece nos versículos 16, 18, 21, 23 e 25, ou seja, cinco vezes."},
+    {"type": "interpretation", "q": "What is the effect of placing the refrain after each group of verses?", "options": ["It changes the speaker each time", "It adds new information each time", "It ends the passage", "It divides the passage into short scenes and asks the same question after each one"], "answer": 3, "why": "A mesma pergunta volta depois de cada imagem (barro, fogo, mares, pérolas, navios) e separa o texto em pequenas cenas."}
+   ],
+   "discussion": "The same question returns after different images (clay, fire, seas, pearls, ships). What does the repetition do to the way the reader takes in these images?",
+   "writing": "Write 120 to 150 words: Explain how the refrain and the images work together in verses 14 to 25."
+  },
+  "C2": {
+   "passage": {"surah": 55, "from": 1, "to": 25},
+   "glossary": [["prostrate", "prostram-se"], ["transgress", "transgredir, exceder"], ["violate", "violar"], ["converging", "convergindo"], ["landmarks", "pontos de referência"], ["marvels", "maravilhas"]],
+   "questions": [
+    {"type": "literal", "q": "In which verse does the refrain 'So which of your Lord’s marvels will you deny?' first appear?", "options": ["Verse 4", "Verse 8", "Verse 13", "Verse 16"], "answer": 2, "why": "Os versículos 1 a 12 não têm a pergunta; ela aparece pela primeira vez no versículo 13."},
+    {"type": "vocabulary", "q": "In verse 8, 'transgress' in 'do not transgress in the balance' is closest to:", "options": ["carry", "go beyond the proper limit", "measure", "praise"], "answer": 1, "why": "'Transgress' é ultrapassar o limite; o versículo 9 repete a ideia com 'do not violate the balance'."},
+    {"type": "inference", "q": "What do the words 'plan' (verse 5) and 'balance' (verses 7 to 9) have in common?", "options": ["Both describe only the sun", "Both suggest order and fair measure in the way things are arranged", "Both describe the sea", "Both describe the jinn"], "answer": 1, "why": "'According to plan' e 'set up the balance' apontam para ordem e medida justa."},
+    {"type": "structure", "q": "How does the rhythm of the passage change after verse 13?", "options": ["The refrain disappears after verse 13", "The passage becomes a list of commands", "The speaker changes", "The refrain is absent from verses 1 to 12 and then returns after short groups of verses"], "answer": 3, "why": "Depois do versículo 13 a pergunta volta nos versículos 16, 18, 21, 23 e 25, em grupos curtos."},
+    {"type": "interpretation", "q": "Which statement is best supported by the passage as a whole?", "options": ["It tells one story with one character", "It moves from teaching and order to images of creation and the sea, and keeps asking the same question", "It gives a list of legal rules", "It describes a battle"], "answer": 1, "why": "Os versículos 1 a 9 falam de ensino, ordem e equilíbrio; os versículos 14 a 25 dão imagens de criação e de mares; a pergunta repete-se."}
+   ],
+   "discussion": "The refrain works as a question but does not expect an answer in words. How does the passage prepare the ground for that question before it first appears in verse 13?",
+   "writing": "Write 150 to 200 words: Analyse how the refrain shapes the structure of verses 1 to 25, referring to specific verses and words."
+  }
+ }
+}
