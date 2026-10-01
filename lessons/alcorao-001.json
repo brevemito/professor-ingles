@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-001",
+ "type": "reference",
+ "title": "The Quran: Surah 1, al-Fatihah (The Opening)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 1. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 1, "from": 1, "to": 7},
+   "glossary": [["praise", "louvor"], ["gracious", "clemente"], ["merciful", "misericordioso"], ["worship", "adorar"], ["guide", "guiar"], ["straight path", "caminho recto"]],
+   "questions": [
+    {"type": "literal", "q": "What does the speaker ask for in verse 6?", "options": ["To be given wealth", "To be forgiven", "To be guided to the straight path", "To be given more time"], "answer": 2, "why": "O versículo 6 diz: 'Guide us to the straight path.'"},
+    {"type": "vocabulary", "q": "'Worship' in verse 5 is closest to:", "options": ["to build", "to show deep respect and devotion", "to forget", "to count"], "answer": 1, "why": "'Worship' é adorar, mostrar profundo respeito e devoção."},
+    {"type": "inference", "q": "What does the word 'we' in verses 5 and 6 suggest?", "options": ["The speaker is speaking together with other people", "The speaker is alone", "The speaker is a king", "The speaker is a child"], "answer": 0, "why": "'We' e 'us' mostram que o falante fala em conjunto com outras pessoas, e não só por si."},
+    {"type": "structure", "q": "What changes between verses 1 to 4 and verse 5?", "options": ["The text talks about Allah, and then speaks directly to Him with 'You'", "The text moves from a question to a command", "The text moves from the past to the future", "The text moves from one place to another"], "answer": 0, "why": "Nos versículos 1 a 4 fala-se Dele; no versículo 5 passa-se a 'It is You we worship'."},
+    {"type": "interpretation", "q": "Which sentence best sums up the passage?", "options": ["A story about a journey", "Praise, followed by a request for guidance", "A list of rules", "A description of a battle"], "answer": 1, "why": "Os versículos 1 a 4 são louvor e os versículos 6 e 7 são o pedido de guia."}
+   ],
+   "discussion": "The passage begins with praise and ends with a request. Why might a text put praise before a request?",
+   "writing": "Write 80 to 100 words: Say what the speaker praises and what he asks for."
+  },
+  "C1": {
+   "passage": {"surah": 1, "from": 1, "to": 7},
+   "glossary": [["Gracious", "Clemente"], ["Merciful", "Misericordioso"], ["Master", "Senhor, dono"], ["Day of Judgment", "Dia do Julgamento"], ["call for help", "pedir ajuda"], ["misguided", "desencaminhados"]],
+   "questions": [
+    {"type": "literal", "q": "What title does verse 4 give?", "options": ["Lord of the Worlds", "Master of the Day of Judgment", "The Most Gracious", "The One"], "answer": 1, "why": "O versículo 4 diz: 'Master of the Day of Judgment.'"},
+    {"type": "vocabulary", "q": "In verse 7, 'misguided' describes people who:", "options": ["are very rich", "have lost the right way", "are far away", "are asleep"], "answer": 1, "why": "'Misguided' descreve quem foi mal guiado ou perdeu o caminho certo."},
+    {"type": "inference", "q": "Verse 7 names three groups. What does the request in verses 6 and 7 suggest the speaker wants?", "options": ["To follow all three groups", "To avoid every path", "To follow the path of the first group, not of the other two", "To leave the group"], "answer": 2, "why": "O texto pede 'the path of those You have blessed, not of those against whom there is anger, nor of those who are misguided'."},
+    {"type": "structure", "q": "In verse 7, 'not of those... nor of those...' works as:", "options": ["two questions", "two exclusions after the path that is asked for", "two commands", "two places"], "answer": 1, "why": "'Not' e 'nor' excluem dois grupos, depois de se nomear o caminho pedido."},
+    {"type": "interpretation", "q": "Which description of the passage's order is best supported?", "options": ["Names and praise (verses 1 to 4), a statement to Him (verse 5), a request (verses 6 and 7)", "A request first, then praise", "A story, then a rule", "A question, then an answer"], "answer": 0, "why": "O texto começa com nomes e louvor, passa ao 'You' no versículo 5 e acaba com o pedido."}
+   ],
+   "discussion": "The passage shifts from talking about Him to talking to Him. How does this shift change the feel of the text?",
+   "writing": "Write 120 to 150 words: Explain how verse 7 develops the request made in verse 6."
+  },
+  "C2": {
+   "passage": {"surah": 1, "from": 1, "to": 7},
+   "glossary": [["Praise be", "Louvado seja"], ["Lord of the Worlds", "Senhor dos Mundos"], ["Most Gracious", "o Mais Clemente"], ["call for help", "pedir ajuda"], ["straight path", "caminho recto"], ["those against whom there is anger", "aqueles contra quem há ira"]],
+   "questions": [
+    {"type": "literal", "q": "How does verse 3 relate to verse 1?", "options": ["It repeats the two titles in a stronger form", "It contradicts verse 1", "It changes the speaker", "It introduces a question"], "answer": 0, "why": "O versículo 1 diz 'the Gracious, the Merciful' e o versículo 3 diz 'The Most Gracious, the Most Merciful'."},
+    {"type": "vocabulary", "q": "'Master of the Day of Judgment' names Him as:", "options": ["a guest", "the one in control on that Day", "a student", "a traveller"], "answer": 1, "why": "'Master of' indica quem tem o domínio, aqui sobre o Dia do Julgamento."},
+    {"type": "inference", "q": "What does verse 5, with 'You', do in the middle of the passage?", "options": ["It ends the passage", "It turns the text from description to direct address and prepares the request", "It introduces a story", "It repeats verse 2"], "answer": 1, "why": "Antes dele fala-se Dele; depois do versículo 5 vem o pedido feito directamente."},
+    {"type": "structure", "q": "What structure does verse 5 use?", "options": ["Two parallel actions joined by 'and'", "A question and an answer", "A list of three places", "A single command"], "answer": 0, "why": "'We worship' e 'we call for help' são duas acções paralelas ligadas por 'and'."},
+    {"type": "interpretation", "q": "Which statement is best supported by the passage as a whole?", "options": ["It moves from naming and praise, through direct address, to a request that defines the path by contrast", "It tells a story in time order", "It gives legal rules", "It only repeats one idea"], "answer": 0, "why": "O versículo 7 define o caminho por contraste: o caminho dos abençoados, não o dos outros dois grupos."}
+   ],
+   "discussion": "The request in verse 7 defines the path by naming those whose path is wanted and those whose path is not. What does defining by contrast add compared with a simple request for the right path?",
+   "writing": "Write 150 to 200 words: Analyse how the seven verses move from praise to request, referring to specific words and to the shift in address."
+  }
+ }
+}
