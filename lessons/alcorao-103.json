@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-103",
+ "type": "reference",
+ "title": "The Quran: Surah 103, al-'Asr (Time)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 103. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 103, "from": 1, "to": 3},
+   "glossary": [["time", "tempo"], ["human being", "ser humano"], ["loss", "perda"], ["except", "excepto"], ["believe", "acreditar"], ["patience", "paciência"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 2, what is the human being in?", "options": ["Danger", "Loss", "Debt", "Sleep"], "answer": 1, "why": "O versículo 2 diz: 'The human being is in loss.'"},
+    {"type": "vocabulary", "q": "'Except' in verse 3 introduces:", "options": ["a place", "people who are left out of the statement in verse 2", "a question", "a number"], "answer": 1, "why": "'Except those who...' nomeia quem fica de fora do que se diz no versículo 2."},
+    {"type": "inference", "q": "What does the word 'except' tell us about verse 2?", "options": ["That it is true for everyone apart from the group in verse 3", "That it is not true for anyone", "That it is a question", "That it is about the past"], "answer": 0, "why": "A excepção do versículo 3 limita a afirmação geral do versículo 2."},
+    {"type": "structure", "q": "Verse 3 is a list joined by 'and'. How many actions does it list?", "options": ["2", "3", "4", "5"], "answer": 2, "why": "O versículo 3 lista quatro: believe, do good works, encourage truth, recommend patience."},
+    {"type": "interpretation", "q": "Which sentence best sums up the passage?", "options": ["The human being is in loss, except those who do four things", "The human being is in danger from a storm", "Time is slow", "The human being has no work"], "answer": 0, "why": "O versículo 2 afirma a perda e o versículo 3 dá a excepção."}
+   ],
+   "discussion": "The passage is only 22 words long. What can a very short text do that a long text cannot?",
+   "writing": "Write 80 to 100 words: Explain in your own words what verses 2 and 3 say."
+  },
+  "C1": {
+   "passage": {"surah": 103, "from": 1, "to": 3},
+   "glossary": [["human being", "ser humano"], ["in loss", "em perda"], ["except", "excepto"], ["good works", "boas obras"], ["encourage", "encorajar"], ["recommend", "recomendar"]],
+   "questions": [
+    {"type": "literal", "q": "Who is excepted in verse 3?", "options": ["Those who travel far", "Those who believe, do good works, encourage truth and recommend patience", "Those who wait", "Those who sleep"], "answer": 1, "why": "O versículo 3 nomeia quem acredita, faz boas obras, encoraja a verdade e recomenda a paciência."},
+    {"type": "vocabulary", "q": "'Recommend patience' (verse 3) is closest to:", "options": ["urge patience on others", "refuse patience", "forget patience", "count patience"], "answer": 0, "why": "'Recommend' é aconselhar; 'recommend patience' é aconselhar a paciência."},
+    {"type": "inference", "q": "'Encourage truth' and 'recommend patience' have something in common. What is it?", "options": ["Both are done in relation to other people", "Both are done alone", "Both are about money", "Both are about travel"], "answer": 0, "why": "'Encourage' e 'recommend' dirigem-se a outras pessoas."},
+    {"type": "structure", "q": "Verse 2 is a general claim. How does verse 3 change it?", "options": ["It repeats it", "It limits it with an exception made of four actions", "It asks a question about it", "It moves it to the past"], "answer": 1, "why": "'Except those who...' tira da afirmação do versículo 2 quem faz as quatro coisas."},
+    {"type": "interpretation", "q": "Which statement is best supported by the text?", "options": ["It states a general condition and then limits it with an exception", "It tells a story with characters", "It gives a list of places", "It has no connection between its verses"], "answer": 0, "why": "Há afirmação geral (versículo 2) e excepção (versículo 3)."}
+   ],
+   "discussion": "The passage states a loss and then an exception in very few words. How does this compact order shape the reader's attention?",
+   "writing": "Write 120 to 150 words: Explain how verse 3 limits the statement in verse 2."
+  },
+  "C2": {
+   "passage": {"surah": 103, "from": 1, "to": 3},
+   "glossary": [["By Time", "Pelo Tempo"], ["in loss", "em perda"], ["except", "excepto"], ["believe", "acreditar"], ["good works", "boas obras"], ["patience", "paciência"]],
+   "questions": [
+    {"type": "literal", "q": "Which word introduces the exception in verse 3?", "options": ["By", "Except", "Time", "Loss"], "answer": 1, "why": "O versículo 3 começa com 'Except'."},
+    {"type": "vocabulary", "q": "'Except those who...' functions as:", "options": ["an exception to the general claim in verse 2", "a question", "a command", "a place name"], "answer": 0, "why": "A expressão marca uma excepção à afirmação do versículo 2."},
+    {"type": "inference", "q": "Verse 2 names only the human being and loss. What does the lack of detail do?", "options": ["It states the claim in its plainest and most general form, leaving verse 3 to supply the exception", "It hides the claim", "It repeats verse 1", "It asks for more information"], "answer": 0, "why": "O versículo 2 é curto e geral, e o versículo 3 completa-o com a excepção."},
+    {"type": "structure", "q": "Which pattern do the actions in verse 3 follow?", "options": ["A single verb repeated", "Parallel actions joined by repeated 'and'", "A question and an answer", "A list of places"], "answer": 1, "why": "'Believe', 'do good works', 'encourage truth' e 'recommend patience' são ligados por 'and'."},
+    {"type": "interpretation", "q": "Which description is best supported?", "options": ["A short opening, a general claim, and an exception built as a list of four parallel actions", "A long story", "A dialogue", "A list of commands"], "answer": 0, "why": "Versículo 1: abertura curta. Versículo 2: afirmação geral. Versículo 3: excepção em lista de quatro acções."}
+   ],
+   "discussion": "The exception in verse 3 is longer than the claim it limits. What effect does that imbalance have?",
+   "writing": "Write 150 to 200 words: Analyse how the three verses are built, referring to specific words and to the pattern of claim and exception."
+  }
+ }
+}
