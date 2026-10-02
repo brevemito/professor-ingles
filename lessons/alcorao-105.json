@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-105",
+ "type": "reference",
+ "title": "The Quran: Surah 105, al-Fil (The Elephant)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 105. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 105, "from": 1, "to": 5},
+   "glossary": [["considered", "considerou, reparou"], ["dealt with", "tratou"], ["plan", "plano"], ["swarms", "enxames"], ["baked clay", "barro cozido"], ["chewed-up", "mastigadas"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 3, what did He send against them?", "options": ["Swarms of birds", "A storm", "A river", "An army"], "answer": 0, "why": "O versículo 3 diz: 'He sent against them swarms of birds.'"},
+    {"type": "vocabulary", "q": "'Swarms of birds' means:", "options": ["one bird", "very large groups of birds", "a nest", "a song"], "answer": 1, "why": "'Swarm' é um grupo muito grande."},
+    {"type": "inference", "q": "Verse 2 says 'make their plan go wrong'. What does this tell you about the People of the Elephant?", "options": ["They had no plan", "They had a plan, and it did not succeed", "They won", "They were not there"], "answer": 1, "why": "O texto diz que o plano deles correu mal."},
+    {"type": "structure", "q": "How does the passage begin?", "options": ["With a command", "With a list", "With two questions", "With a name only"], "answer": 2, "why": "Os versículos 1 e 2 são perguntas."},
+    {"type": "interpretation", "q": "Which sentence best sums up the passage?", "options": ["They built a city", "Their plan failed, and birds and rocks left them like chewed-up leaves", "They crossed a sea", "They signed an agreement"], "answer": 1, "why": "Os versículos 2 a 5 descrevem o que lhes aconteceu."}
+   ],
+   "discussion": "The passage begins with two questions. Why might a story start with questions instead of facts?",
+   "writing": "Write 80 to 100 words: Tell the events of the passage in the order they appear."
+  },
+  "C1": {
+   "passage": {"surah": 105, "from": 1, "to": 5},
+   "glossary": [["considered", "considerou"], ["dealt with", "tratou"], ["go wrong", "correr mal"], ["swarms", "enxames"], ["baked clay", "barro cozido"], ["chewed-up leaves", "folhas mastigadas"]],
+   "questions": [
+    {"type": "literal", "q": "How does verse 5 describe the People of the Elephant?", "options": ["Like swarms of birds", "Like rocks", "Like a plan", "Like chewed-up leaves"], "answer": 3, "why": "O versículo 5 diz: 'Leaving them like chewed-up leaves.'"},
+    {"type": "vocabulary", "q": "'Rocks of baked clay' is closest to:", "options": ["hard pieces of fired earth", "pieces of ice", "pieces of gold", "pieces of wood"], "answer": 0, "why": "'Baked clay' é barro cozido, endurecido."},
+    {"type": "inference", "q": "Which order of events does the passage give?", "options": ["Swarms of birds are sent, rocks are thrown, they are left like chewed-up leaves", "They are left like chewed-up leaves, then birds are sent", "Rocks are thrown, then the plan is made", "The plan is made, then they win"], "answer": 0, "why": "O versículo 3 manda os pássaros, o 4 atira pedras e o 5 descreve o resultado."},
+    {"type": "structure", "q": "Verses 1 and 2 are questions. What are verses 3 to 5?", "options": ["More questions", "Commands", "Statements that describe what happened", "Names of places"], "answer": 2, "why": "Descrevem o que aconteceu."},
+    {"type": "interpretation", "q": "What does the comparison in verse 5 do?", "options": ["It asks a question", "It shows the outcome by a vivid image of something chewed and left over", "It names a place", "It gives a command"], "answer": 1, "why": "'Like chewed-up leaves' dá uma imagem concreta do resultado."}
+   ],
+   "discussion": "The passage opens with two questions and answers them with three short descriptions. How does this question and answer order shape the way the reader takes in the events?",
+   "writing": "Write 120 to 150 words: Explain how verses 3 to 5 develop the events in order."
+  },
+  "C2": {
+   "passage": {"surah": 105, "from": 1, "to": 5},
+   "glossary": [["People of the Elephant", "o Povo do Elefante"], ["plan go wrong", "plano correr mal"], ["swarms", "enxames"], ["baked clay", "barro cozido"], ["chewed-up leaves", "folhas mastigadas"], ["dealt with", "tratou"]],
+   "questions": [
+    {"type": "literal", "q": "In verse 4, the word 'Throwing' continues the action of:", "options": ["the People of the Elephant", "the Lord", "the plan", "the swarms of birds in verse 3"], "answer": 3, "why": "O versículo 3 fala de 'swarms of birds' e o versículo 4 continua com 'Throwing'."},
+    {"type": "vocabulary", "q": "Verses 4 and 5 begin with 'Throwing' and 'Leaving'. What kind of words are they?", "options": ["Names of places", "Questions", "Verbs ending in -ing that continue the action of verse 3", "Commands"], "answer": 2, "why": "'Throwing' e 'Leaving' continuam a acção do versículo 3."},
+    {"type": "inference", "q": "The opening questions ('Have you not considered...', 'Did He not make...') invite which kind of answer?", "options": ["A no", "No answer at all", "A number", "A yes: they invite the reader to agree"], "answer": 3, "why": "Perguntas formuladas com 'not' convidam o leitor a concordar."},
+    {"type": "structure", "q": "Which description of the structure is most accurate?", "options": ["Five unrelated commands", "A list of ten facts", "A dialogue", "Two questions, then an action (verse 3) continued by two -ing phrases (verses 4 and 5)"], "answer": 3, "why": "O versículo 3 descreve a acção e os versículos 4 e 5 continuam-na com 'Throwing' e 'Leaving'."},
+    {"type": "interpretation", "q": "Which statement is best supported by the passage as a whole?", "options": ["It moves from questions to a concrete sequence of events that ends in a vivid image", "It gives legal rules", "It describes a city", "It has no order"], "answer": 0, "why": "Os versículos 1 e 2 são perguntas e os versículos 3 a 5 descrevem os acontecimentos."}
+   ],
+   "discussion": "Verses 4 and 5 continue the action of verse 3 with -ing phrases. What does this continuous flow do to the pace of the passage?",
+   "writing": "Write 150 to 200 words: Analyse how questions, sequence and imagery work together in the five verses, referring to specific words."
+  }
+ }
+}
