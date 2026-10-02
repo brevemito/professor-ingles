@@ -41,13 +41,101 @@
   "reference": true
  },
  {
-  "id": "alcorao-112",
-  "file": "alcorao-112.json",
-  "title": "The Quran: Surah 112, al-Ikhlas (Monotheism)",
+  "id": "alcorao-001",
+  "file": "alcorao-001.json",
+  "title": "The Quran: Surah 1, al-Fatihah (The Opening)",
   "author": "Tradução inglesa de Talal Itani (ClearQuran)",
   "category": "Texto sagrado do Islão",
   "period": "Século VII",
-  "description": "Uma surata de quatro versículos, muito curta e muito conhecida. Cada nível estuda o texto completo com notas, perguntas e actividades diferentes.",
+  "description": "A surata de abertura, com sete versículos. O texto passa de falar sobre Ele para falar directamente a Ele, e acaba com um pedido.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-024",
+  "file": "alcorao-024.json",
+  "title": "The Quran: Surah 24, an-Nur (The Light)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Excertos da Surata 24. B2: versículos 36 a 38; C1: versículos 27 a 29; C2: versículo 35, o versículo da luz.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-031",
+  "file": "alcorao-031.json",
+  "title": "The Quran: Surah 31, Luqman",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Excertos da Surata 31: conselhos de um pai ao filho. B2: versículos 17 a 19; C1: versículos 13 a 16; C2: versículos 12 a 19.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-055",
+  "file": "alcorao-055.json",
+  "title": "The Quran: Surah 55, ar-Rahman (The Compassionate)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Excertos da Surata 55, com uma pergunta que se repete ao longo do texto. B2: versículos 1 a 13; C1: versículos 14 a 25; C2: versículos 1 a 25.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-093",
+  "file": "alcorao-093.json",
+  "title": "The Quran: Surah 93, ad-Duha (Morning Light)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Uma surata de onze versículos. Três perguntas sobre o passado (versículos 6 a 8) são seguidas de três ordens (versículos 9 a 11).",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-094",
+  "file": "alcorao-094.json",
+  "title": "The Quran: Surah 94, ash-Sharh (The Soothing)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Uma surata de oito versículos com perguntas, uma frase repetida ('With hardship comes ease') e duas ordens finais.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-097",
+  "file": "alcorao-097.json",
+  "title": "The Quran: Surah 97, al-Qadr (Decree)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Uma surata de cinco versículos sobre uma noite. Tem uma pergunta, uma comparação (melhor do que mil meses) e um fecho curto.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-103",
+  "file": "alcorao-103.json",
+  "title": "The Quran: Surah 103, al-'Asr (Time)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Uma surata de três versículos e vinte e duas palavras. Tem uma afirmação geral e uma excepção feita de quatro acções.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-105",
+  "file": "alcorao-105.json",
+  "title": "The Quran: Surah 105, al-Fil (The Elephant)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Uma surata de cinco versículos. Duas perguntas abrem o texto e três versículos descrevem o que aconteceu, com imagens concretas.",
   "levels": ["B2", "C1", "C2"],
   "reference": true
  },
@@ -59,6 +147,17 @@
   "category": "Texto sagrado do Islão",
   "period": "Século VII",
   "description": "Uma surata de cinco versículos sobre um homem e a sua mulher. O estudo fica no que o texto diz: a riqueza, o fogo e as imagens concretas.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-112",
+  "file": "alcorao-112.json",
+  "title": "The Quran: Surah 112, al-Ikhlas (Monotheism)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Uma surata de quatro versículos, muito curta e muito conhecida. Cada nível estuda o texto completo com notas, perguntas e actividades diferentes.",
   "levels": ["B2", "C1", "C2"],
   "reference": true
  },
@@ -81,39 +180,6 @@
   "category": "Texto sagrado do Islão",
   "period": "Século VII",
   "description": "A última surata, com seis versículos. Cada nível estuda o texto completo, com atenção aos títulos repetidos e ao perigo descrito.",
-  "levels": ["B2", "C1", "C2"],
-  "reference": true
- },
- {
-  "id": "alcorao-055",
-  "file": "alcorao-055.json",
-  "title": "The Quran: Surah 55, ar-Rahman (The Compassionate)",
-  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
-  "category": "Texto sagrado do Islão",
-  "period": "Século VII",
-  "description": "Excertos da Surata 55, com uma pergunta que se repete ao longo do texto. B2: versículos 1 a 13; C1: versículos 14 a 25; C2: versículos 1 a 25.",
-  "levels": ["B2", "C1", "C2"],
-  "reference": true
- },
- {
-  "id": "alcorao-031",
-  "file": "alcorao-031.json",
-  "title": "The Quran: Surah 31, Luqman",
-  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
-  "category": "Texto sagrado do Islão",
-  "period": "Século VII",
-  "description": "Excertos da Surata 31: conselhos de um pai ao filho. B2: versículos 17 a 19; C1: versículos 13 a 16; C2: versículos 12 a 19.",
-  "levels": ["B2", "C1", "C2"],
-  "reference": true
- },
- {
-  "id": "alcorao-024",
-  "file": "alcorao-024.json",
-  "title": "The Quran: Surah 24, an-Nur (The Light)",
-  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
-  "category": "Texto sagrado do Islão",
-  "period": "Século VII",
-  "description": "Excertos da Surata 24. B2: versículos 36 a 38; C1: versículos 27 a 29; C2: versículo 35, o versículo da luz.",
   "levels": ["B2", "C1", "C2"],
   "reference": true
  }
