@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-094",
+ "type": "reference",
+ "title": "The Quran: Surah 94, ash-Sharh (The Soothing)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 94. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 94, "from": 1, "to": 8},
+   "glossary": [["soothe", "acalmar"], ["burden", "fardo"], ["weighed down", "pesava sobre"], ["reputation", "reputação"], ["hardship", "dificuldade"], ["ease", "alívio, facilidade"]],
+   "questions": [
+    {"type": "literal", "q": "What comes with hardship, according to verse 5?", "options": ["Ease", "Wealth", "Silence", "Time"], "answer": 0, "why": "O versículo 5 diz: 'With hardship comes ease.'"},
+    {"type": "vocabulary", "q": "A 'burden' (verse 2) is something that:", "options": ["is easy to carry", "is very small", "is heavy to carry", "is far away"], "answer": 2, "why": "O versículo 3 diz que o fardo 'weighed down your back'."},
+    {"type": "inference", "q": "Verses 5 and 6 repeat the same sentence. What does the repetition suggest?", "options": ["That the sentence is a mistake", "That the idea is important and should be remembered", "That the speaker has changed", "That the text is about to end"], "answer": 1, "why": "A repetição exacta dá ênfase à ideia."},
+    {"type": "structure", "q": "What kind of sentences are verses 7 and 8?", "options": ["Commands", "Questions", "Stories", "Lists of places"], "answer": 0, "why": "'Turn to devotion' e 'turn for everything' são ordens."},
+    {"type": "interpretation", "q": "Which sentence best sums up the passage?", "options": ["It tells a story about a journey", "It reminds the speaker of what was done for him, says hardship comes with ease, and ends with instructions", "It lists laws about trade", "It describes a battle"], "answer": 1, "why": "Os versículos 1 a 4 recordam, os versículos 5 e 6 afirmam e os versículos 7 e 8 instruem."}
+   ],
+   "discussion": "'With hardship comes ease.' Can you think of a situation where this idea is true? Explain.",
+   "writing": "Write 80 to 100 words: Say what the verses tell the reader to do and why."
+  },
+  "C1": {
+   "passage": {"surah": 94, "from": 1, "to": 8},
+   "glossary": [["soothe", "acalmar"], ["lift", "levantar, retirar"], ["weighed down", "pesava sobre"], ["raised", "elevou"], ["devotion", "devoção"], ["turn", "voltar-se"]],
+   "questions": [
+    {"type": "literal", "q": "What does verse 7 tell the reader to do when his work is done?", "options": ["Rest", "Turn to devotion", "Travel", "Count his wealth"], "answer": 1, "why": "O versículo 7 diz: 'When your work is done, turn to devotion.'"},
+    {"type": "vocabulary", "q": "'Raised for you your reputation' (verse 4) means his reputation was:", "options": ["lowered", "made higher", "hidden", "forgotten"], "answer": 1, "why": "'Raised' é elevar."},
+    {"type": "inference", "q": "Verses 1 to 4 look back at what has already been done. How might they prepare verses 5 and 6?", "options": ["By giving past examples that support the statement about hardship and ease", "By changing the topic", "By ending the passage", "By asking for help"], "answer": 0, "why": "Os versículos 1 a 4 recordam o que já foi feito, e os versículos 5 e 6 afirmam a regra."},
+    {"type": "structure", "q": "How are verses 7 and 8 linked?", "options": ["Both give instructions using the verb 'turn'", "Both ask questions", "Both describe the past", "Both name places"], "answer": 0, "why": "'Turn to devotion' e 'turn for everything' repetem o verbo 'turn'."},
+    {"type": "interpretation", "q": "Which statement is best supported?", "options": ["The passage moves from the past to a general statement and then to instructions", "The passage moves from instructions to a story", "The passage has only questions", "The passage has no order"], "answer": 0, "why": "Versículos 1 a 4: o que foi feito. Versículos 5 e 6: afirmação. Versículos 7 e 8: instruções."}
+   ],
+   "discussion": "The first four verses look back, verses 5 and 6 state a rule, and verses 7 and 8 look forward. What does this three-part order do for the reader?",
+   "writing": "Write 120 to 150 words: Explain how the repeated sentence in verses 5 and 6 connects the two halves of the passage."
+  },
+  "C2": {
+   "passage": {"surah": 94, "from": 1, "to": 8},
+   "glossary": [["soothe your heart", "acalmar o teu coração"], ["weighed down your back", "pesava nas tuas costas"], ["hardship", "dificuldade"], ["ease", "alívio"], ["turn to devotion", "voltar-te para a devoção"], ["for everything", "para tudo"]],
+   "questions": [
+    {"type": "literal", "q": "Which two verses are identical?", "options": ["Verses 1 and 2", "Verses 3 and 4", "Verses 5 and 6", "Verses 7 and 8"], "answer": 2, "why": "Os versículos 5 e 6 dizem exactamente 'With hardship comes ease.'"},
+    {"type": "vocabulary", "q": "'Weighed down your back' (verse 3) is:", "options": ["a physical image for the burden named in verse 2", "a place name", "a question", "a command"], "answer": 0, "why": "O fardo do versículo 2 é descrito no versículo 3 como algo que pesava nas costas."},
+    {"type": "inference", "q": "'With hardship comes ease' uses 'with', not 'after'. What does this word choice suggest?", "options": ["That ease comes together with hardship, not only afterwards", "That hardship never ends", "That ease comes before hardship", "That hardship is a place"], "answer": 0, "why": "'With' sugere que o alívio vem junto com a dificuldade."},
+    {"type": "structure", "q": "The passage ends with two instructions that use 'turn'. What does the repetition do?", "options": ["It ties the two commands together and closes the passage with a clear direction", "It changes the topic", "It asks a question", "It repeats verse 1"], "answer": 0, "why": "'Turn to devotion' e 'turn for everything' repetem o verbo e fecham o texto."},
+    {"type": "interpretation", "q": "Which description is best supported?", "options": ["Reminders of the past (1 to 4), a repeated statement at the centre (5 and 6), two closing instructions (7 and 8)", "A story with names", "A list of places", "A dialogue between two speakers"], "answer": 0, "why": "A frase repetida fica no centro do texto, entre os lembretes e as instruções."}
+   ],
+   "discussion": "The sentence in verse 5 is repeated exactly in verse 6, at the centre of the passage. What does this do to the rhythm and the meaning?",
+   "writing": "Write 150 to 200 words: Analyse how the passage is built around the repeated sentence, referring to specific verses and words."
+  }
+ }
+}
