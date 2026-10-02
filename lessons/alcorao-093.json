@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-093",
+ "type": "reference",
+ "title": "The Quran: Surah 93, ad-Duha (Morning Light)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 93. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 93, "from": 1, "to": 11},
+   "glossary": [["abandon", "abandonar"], ["forget", "esquecer"], ["satisfied", "satisfeito"], ["orphaned", "órfão"], ["sheltered", "abrigou"], ["wandering", "errante, perdido"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 3, what did your Lord not do?", "options": ["He did not abandon you or forget", "He did not speak", "He did not give", "He did not see"], "answer": 0, "why": "O versículo 3 diz: 'Your Lord did not abandon you, nor did He forget.'"},
+    {"type": "vocabulary", "q": "'Sheltered' in verse 6 means He:", "options": ["gave protection and a place", "took away", "asked questions", "went away"], "answer": 0, "why": "'Sheltered' é abrigar, dar protecção."},
+    {"type": "inference", "q": "Verses 6 to 8 are three questions about the past. What do they remind the person of?", "options": ["That he was found in need and was helped", "That he never needed anything", "That he lived alone", "That he was a king"], "answer": 0, "why": "O texto diz: 'found you orphaned... wandering... in need', e cada uma é seguida de ajuda."},
+    {"type": "structure", "q": "What do verses 9, 10 and 11 give?", "options": ["Questions", "Instructions", "Names", "Places"], "answer": 1, "why": "'Do not mistreat', 'Nor rebuff' e 'But proclaim' são instruções."},
+    {"type": "interpretation", "q": "Which sentence best sums up the passage?", "options": ["A reminder of past care, a promise, and instructions for how to act", "A story about a war", "A list of prices", "A description of a city"], "answer": 0, "why": "Há lembrança (versículos 6 a 8), promessa (versículo 5) e instruções (versículos 9 a 11)."}
+   ],
+   "discussion": "The passage asks the person to remember how he was helped, and then tells him how to treat others. Why might remembering help us treat others well?",
+   "writing": "Write 80 to 100 words: Say what the three questions in verses 6 to 8 remind the person of."
+  },
+  "C1": {
+   "passage": {"surah": 93, "from": 1, "to": 11},
+   "glossary": [["abandon", "abandonar"], ["settles", "assenta, cai"], ["Hereafter", "Além, vida futura"], ["orphaned", "órfão"], ["rebuff", "repelir"], ["proclaim", "proclamar"]],
+   "questions": [
+    {"type": "literal", "q": "What does verse 2 describe?", "options": ["The night as it settles", "The sun at noon", "A storm", "The sea"], "answer": 0, "why": "O versículo 2 diz: 'And the night as it settles.'"},
+    {"type": "vocabulary", "q": "'Rebuff the seeker' (verse 10) means:", "options": ["welcome him", "turn him away roughly", "follow him", "teach him"], "answer": 1, "why": "'Rebuff' é repelir ou rejeitar de forma ríspida."},
+    {"type": "inference", "q": "In verses 6 to 8, 'found you orphaned', 'wandering' and 'in need' are each followed by an action. What pattern is clear?", "options": ["Each condition is answered by a matching act of help", "Each condition is ignored", "Each condition gets worse", "Each condition is a question about the future"], "answer": 0, "why": "Órfão foi abrigado, errante foi guiado e necessitado foi enriquecido."},
+    {"type": "structure", "q": "What does 'Therefore' at the start of verse 9 do?", "options": ["It draws a conclusion: instructions follow from what verses 6 to 8 recall", "It starts a question", "It repeats verse 3", "It changes the speaker"], "answer": 0, "why": "'Therefore' liga as instruções à lembrança dos versículos anteriores."},
+    {"type": "interpretation", "q": "Which description of the passage is best supported?", "options": ["Morning light and night (1 and 2), reassurance (3 to 5), three questions (6 to 8), instructions (9 to 11)", "A single story", "A list of laws", "A dialogue"], "answer": 0, "why": "Cada grupo de versículos tem uma função clara."}
+   ],
+   "discussion": "Each question in verses 6 to 8 names a condition and then the help that followed. How does this pairing make the reassurance stronger than a general statement would?",
+   "writing": "Write 120 to 150 words: Explain how verses 9 to 11 follow from verses 6 to 8."
+  },
+  "C2": {
+   "passage": {"surah": 93, "from": 1, "to": 11},
+   "glossary": [["By the morning light", "Pela luz da manhã"], ["as it settles", "ao cair (a noite)"], ["the First", "a primeira (vida)"], ["orphaned", "órfão"], ["rebuff", "repelir"], ["proclaim the blessings", "proclamar as bênçãos"]],
+   "questions": [
+    {"type": "literal", "q": "Which two phenomena open the passage?", "options": ["Sun and moon", "Morning light and the night as it settles", "Rain and wind", "Sea and land"], "answer": 1, "why": "Os versículos 1 e 2 são 'By the morning light' e 'And the night as it settles'."},
+    {"type": "vocabulary", "q": "In verse 5, what does 'and you will be satisfied' add after 'will give you'?", "options": ["A result: the giving ends in satisfaction", "A warning", "A question", "A place"], "answer": 0, "why": "A frase acrescenta o resultado do que será dado."},
+    {"type": "inference", "q": "What do the opening images (morning light, night as it settles) form?", "options": ["A pair of opposites, day and night", "A list of rules", "A story", "A question"], "answer": 0, "why": "Luz da manhã e noite a assentar são opostos."},
+    {"type": "structure", "q": "Which verse marks the turn from reminder to instruction?", "options": ["Verse 3", "Verse 6", "Verse 9", "Verse 11"], "answer": 2, "why": "O versículo 9 começa com 'Therefore' e inicia as instruções."},
+    {"type": "interpretation", "q": "Which description is best supported?", "options": ["Reassurance (3 to 5), three paired questions about past care (6 to 8), and three closing instructions (9 to 11), linked by 'Therefore'", "A story with one character", "A list of ten rules", "A dialogue between two speakers"], "answer": 0, "why": "Cada bloco tem uma função e o 'Therefore' liga o lembrete à instrução."}
+   ],
+   "discussion": "The passage moves from reassurance to memory to instruction. What is the effect of making instructions grow out of a reminder of what was received?",
+   "writing": "Write 150 to 200 words: Analyse how the passage moves from reassurance to instruction, referring to specific verses and words."
+  }
+ }
+}
