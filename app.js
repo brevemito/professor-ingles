@@ -210,6 +210,21 @@ function listaGlossario(g) {
   }
   return box;
 }
+/* Baralha a ordem das opções, para a resposta certa não ficar sempre na mesma posição.
+   Listas com ordem natural (números, "Verse 4", "Verses 1 and 2") mantêm a ordem. */
+function ordemOpcoes(opts) {
+  var ord = [], i, j, t, natural = true;
+  for (i = 0; i < opts.length; i++) {
+    ord.push(i);
+    if (!/^(\d+|Verses? \d.*)$/.test(opts[i])) { natural = false; }
+  }
+  if (natural) { return ord; }
+  for (i = ord.length - 1; i > 0; i--) {
+    j = Math.floor(Math.random() * (i + 1));
+    t = ord[i]; ord[i] = ord[j]; ord[j] = t;
+  }
+  return ord;
+}
 function blocoPerguntas(d, chave, st) {
   var total = d.questions.length;
   var info = el("p", "nota", "Respondidas: 0 de " + total);
@@ -222,13 +237,15 @@ function blocoPerguntas(d, chave, st) {
       box.appendChild(el("p", "pq", qq.q));
       var fechado = false; var bs = [];
       var fb = el("div", "feedback"); fb.setAttribute("aria-live", "polite");
-      for (var o = 0; o < qq.options.length; o++) {
+      var ord = ordemOpcoes(qq.options);
+      var certaPos = ord.indexOf(qq.answer);
+      for (var o = 0; o < ord.length; o++) {
         (function (idx) {
           var b = botao("op", qq.options[idx]); bs.push(b);
           b.addEventListener("click", function () {
             if (fechado) { return; }
             fechado = true; st.resp++;
-            bs[qq.answer].className = "op certa";
+            bs[certaPos].className = "op certa";
             var certa = idx === qq.answer;
             if (certa) { st.certas++; } else { b.className = "op errada"; }
             fb.appendChild(el("p", "nota", (certa ? "Certo. " : "Resposta certa marcada a verde. ") + qq.why));
@@ -238,7 +255,7 @@ function blocoPerguntas(d, chave, st) {
             guardar("prog", prog);
           });
           box.appendChild(b);
-        })(o);
+        })(ord[o]);
       }
       box.appendChild(fb);
       frag.appendChild(box);
