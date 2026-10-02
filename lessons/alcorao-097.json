@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-097",
+ "type": "reference",
+ "title": "The Quran: Surah 97, al-Qadr (Decree)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 97. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 97, "from": 1, "to": 5},
+   "glossary": [["sent it down", "fez-o descer"], ["decree", "decreto"], ["convey", "transmitir, fazer saber"], ["thousand", "mil"], ["descend", "descem"], ["dawn", "amanhecer"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 3, the Night of Decree is better than:", "options": ["a thousand months", "a hundred days", "a year", "a week"], "answer": 0, "why": "O versículo 3 diz: 'better than a thousand months'."},
+    {"type": "vocabulary", "q": "'Descend' in verse 4 means:", "options": ["to go up", "to come down", "to stay", "to sleep"], "answer": 1, "why": "'Descend' é descer."},
+    {"type": "inference", "q": "What kind of comparison is verse 3?", "options": ["One that says a single night is worth more than a very long time", "One that says the night is short", "One that says the night is dark", "One that says the night is far away"], "answer": 0, "why": "Compara uma noite com mil meses."},
+    {"type": "structure", "q": "How are verses 2 and 3 connected?", "options": ["Verse 2 asks a question and verse 3 gives a statement about the night", "Both are commands", "Both describe the past", "Both name places"], "answer": 0, "why": "O versículo 2 faz a pergunta e o versículo 3 diz algo sobre a noite."},
+    {"type": "interpretation", "q": "Which sentence best sums up the passage?", "options": ["It describes one special night and what happens in it until dawn", "It tells about a long trip", "It lists laws", "It describes a battle"], "answer": 0, "why": "Os versículos 1 a 5 falam da Noite do Decreto, do que desce nela e até quando dura."}
+   ],
+   "discussion": "The passage compares one night to a thousand months. Why do people compare small units of time with large ones to show value?",
+   "writing": "Write 80 to 100 words: Describe what the passage says about the Night of Decree."
+  },
+  "C1": {
+   "passage": {"surah": 97, "from": 1, "to": 5},
+   "glossary": [["sent it down", "fez-o descer"], ["convey", "fazer saber"], ["better than", "melhor do que"], ["by the leave of", "com a permissão de"], ["command", "ordem"], ["rise of dawn", "o raiar da aurora"]],
+   "questions": [
+    {"type": "literal", "q": "What descends in the night, according to verse 4?", "options": ["The angels and the Spirit", "Rain", "Stars", "Birds"], "answer": 0, "why": "O versículo 4 diz: 'In it descend the angels and the Spirit'."},
+    {"type": "vocabulary", "q": "'By the leave of their Lord' means:", "options": ["against their Lord's wish", "with their Lord's permission", "far from their Lord", "before their Lord"], "answer": 1, "why": "'Leave' aqui é permissão."},
+    {"type": "inference", "q": "'Until the rise of dawn' (verse 5) shows that:", "options": ["the night described has an end point", "the night never ends", "the night is a place", "the night is a person"], "answer": 0, "why": "'Until the rise of dawn' marca o fim da noite descrita."},
+    {"type": "structure", "q": "How many times does 'Night of Decree' appear in the passage?", "options": ["1", "2", "3", "4"], "answer": 2, "why": "Aparece nos versículos 1, 2 e 3."},
+    {"type": "interpretation", "q": "Which statement is best supported?", "options": ["The passage presents one night as better than a long span of time, and describes what takes place until dawn", "The passage describes a war", "The passage lists prices", "The passage has no clear topic"], "answer": 0, "why": "O versículo 3 compara e os versículos 4 e 5 descrevem."}
+   ],
+   "discussion": "'Night of Decree' is repeated three times in three verses. What does the repetition do?",
+   "writing": "Write 120 to 150 words: Explain how the question in verse 2 prepares the statement in verse 3."
+  },
+  "C2": {
+   "passage": {"surah": 97, "from": 1, "to": 5},
+   "glossary": [["convey", "fazer saber"], ["a thousand months", "mil meses"], ["descend", "descem"], ["the Spirit", "o Espírito"], ["with every command", "com toda a ordem"], ["peace", "paz"]],
+   "questions": [
+    {"type": "literal", "q": "What does verse 5 say the night is?", "options": ["Peace", "Silence", "Fear", "Darkness"], "answer": 0, "why": "O versículo 5 diz: 'Peace it is'."},
+    {"type": "vocabulary", "q": "'Peace it is' reverses ordinary word order. What effect does it have?", "options": ["It puts 'Peace' first and gives a solemn tone", "It makes the verse a question", "It makes the verse informal", "It makes the verse a command"], "answer": 0, "why": "A ordem invertida põe 'Peace' à frente e dá um tom solene."},
+    {"type": "inference", "q": "Verse 2 asks and verse 3 answers by comparison rather than by definition. What does this suggest?", "options": ["That the night is explained by measuring its value, not by describing it", "That the night is unknown", "That the night is short", "That the night is a month"], "answer": 0, "why": "A resposta é uma comparação com mil meses."},
+    {"type": "structure", "q": "Which description of the sequence is most accurate?", "options": ["Event (1), question (2), comparison (3), description (4), result (5)", "Command, command, command, command, command", "Story, dialogue, list, question, rule", "Question, question, question, question, question"], "answer": 0, "why": "Cada versículo tem uma função distinta."},
+    {"type": "interpretation", "q": "'Peace it is; until the rise of dawn' ends the passage. What does the ending do?", "options": ["It closes with calm and a point in time", "It ends with a question", "It ends with a list", "It ends with a command"], "answer": 0, "why": "'Peace' e 'until the rise of dawn' fecham o texto com calma e um limite no tempo."}
+   ],
+   "discussion": "The passage moves from an event to a question, a comparison, a description and a closing image. What does this order do for the reader?",
+   "writing": "Write 150 to 200 words: Analyse how the five verses are built, referring to specific words."
+  }
+ }
+}
