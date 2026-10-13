@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-049",
+ "type": "reference",
+ "title": "The Quran: Surah 49, al-Hujurat (The Chambers)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 49. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz. Cada nível estuda um excerto diferente.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 49, "from": 13, "to": 13},
+   "glossary": [["created", "criou"], ["a male and a female", "um homem e uma mulher"], ["races", "raças, povos"], ["tribes", "tribos"], ["know one another", "conhecerem-se uns aos outros"], ["righteous", "justo, íntegro"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 13, from what were people created?", "options": ["Clay and fire", "Water and light", "Stone and earth", "A male and a female"], "answer": 3, "why": "O versículo 13 diz: 'We created you from a male and a female'."},
+    {"type": "vocabulary", "q": "'Tribes' in verse 13 means:", "options": ["very tall buildings", "kinds of food", "large groups of related people", "ways of travelling"], "answer": 2, "why": "'Tribes' são tribos, grupos grandes de pessoas ligadas entre si."},
+    {"type": "inference", "q": "Verse 13 says people were made 'races and tribes, that you may know one another'. What reason does the verse give for the differences?", "options": ["So that people may know one another", "So that people may fight", "So that people may hide", "So that people may forget"], "answer": 0, "why": "O texto diz 'that you may know one another'."},
+    {"type": "structure", "q": "How does the verse address its readers?", "options": ["As 'O you who believe!'", "As 'O people!', that is, all people", "As 'O my son!'", "As 'Say,'"], "answer": 1, "why": "O versículo 13 começa com 'O people!'."},
+    {"type": "interpretation", "q": "Which sentence best sums up the verse?", "options": ["People share one origin, are made into groups so they can know one another, and the best is the most righteous", "The best person is the richest", "The best tribe is the largest", "The best race is the oldest"], "answer": 0, "why": "O versículo fala da origem comum, dos grupos para se conhecerem e de que o melhor é o mais íntegro."}
+   ],
+   "discussion": "The verse says differences exist 'that you may know one another'. How can knowing people from different groups help a community?",
+   "writing": "Write 80 to 100 words: Say what the verse tells us about where people come from and about who is best."
+  },
+  "C1": {
+   "passage": {"surah": 49, "from": 10, "to": 11},
+   "glossary": [["reconcile", "reconciliar"], ["ridicule", "ridicularizar"], ["slander", "difamar"], ["insult", "insultar"], ["repent", "arrepender-se"], ["wrongdoers", "transgressores"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 10, what should you do between your brothers?", "options": ["Argue", "Count", "Reconcile", "Travel"], "answer": 2, "why": "O versículo 10 diz: 'reconcile between your brothers'."},
+    {"type": "vocabulary", "q": "'Slander' (verse 11) means:", "options": ["to say false and harmful things about someone", "to praise someone", "to greet someone", "to follow someone"], "answer": 0, "why": "'Slander' é difamar."},
+    {"type": "inference", "q": "Verse 11 says no people should ridicule others 'for they may be better than they'. What does this reason suggest about judging other people?", "options": ["That one should always judge others", "That one cannot be sure who is better", "That ridicule is a form of praise", "That nobody can ever be better"], "answer": 1, "why": "O texto admite que quem é ridicularizado 'may be better'."},
+    {"type": "structure", "q": "Verse 11 uses several 'Nor' sentences. What does this do?", "options": ["It asks a series of questions", "It builds a list of things not to do", "It tells a story", "It changes the speaker"], "answer": 1, "why": "'No people shall...', 'Nor shall...', 'nor shall...' formam uma lista de proibições."},
+    {"type": "interpretation", "q": "Which idea links verses 10 and 11?", "options": ["Travel to far places", "Buying and selling", "Relations between people: peace and respect in how they speak and act", "Naming children"], "answer": 2, "why": "O versículo 10 fala de reconciliação e o versículo 11 fala de respeito nas palavras."}
+   ],
+   "discussion": "Verse 10 asks for reconciliation and verse 11 lists behaviours to avoid. How do the two verses work together as a picture of life in a community?",
+   "writing": "Write 120 to 150 words: Explain how verse 11 develops the idea of brotherhood in verse 10."
+  },
+  "C2": {
+   "passage": {"surah": 49, "from": 10, "to": 13},
+   "glossary": [["reconcile", "reconciliar"], ["suspicion", "suspeita"], ["backbite", "falar mal pelas costas"], ["detest", "detestar"], ["races and tribes", "povos e tribos"], ["Most Relenting", "o Mais Clemente no perdão"]],
+   "questions": [
+    {"type": "literal", "q": "Which question does verse 12 ask?", "options": ["Would you like to travel far?", "Would any of you like to eat the flesh of his dead brother?", "Do you know who created you?", "Who is the best among you?"], "answer": 1, "why": "O versículo 12 faz essa pergunta depois de 'do not spy on one another, nor backbite one another'."},
+    {"type": "vocabulary", "q": "'Detest' in verse 12 means:", "options": ["to strongly dislike", "to greatly admire", "to forget", "to count"], "answer": 0, "why": "'You would detest it' quer dizer que detestarias, ou seja, não suportarias."},
+    {"type": "inference", "q": "In verse 12, the question about eating 'the flesh of his dead brother' follows 'nor backbite one another'. What is the effect of the image?", "options": ["It makes backbiting feel funny", "It makes backbiting feel necessary", "It changes the topic to food", "It makes backbiting feel repulsive"], "answer": 3, "why": "A pergunta liga o falar mal a algo que 'you would detest'."},
+    {"type": "structure", "q": "How do verses 11, 12 and 13 begin?", "options": ["All three open with 'Say,'", "All three open with a question", "Verses 11 and 12 open with 'O you who believe!', and verse 13 widens the address with 'O people!'", "All three open with 'O my son!'"], "answer": 2, "why": "Os versículos 11 e 12 começam com 'O you who believe!' e o versículo 13 com 'O people!'."},
+    {"type": "interpretation", "q": "Which description of the passage's progression is best supported?", "options": ["From a story to a rule", "From a prayer to a list of places", "From a question to a command only", "From brotherhood and reconciliation (10), through behaviours to avoid in speech and thought (11 and 12), to a statement about all people and who is best (13)"], "answer": 3, "why": "Cada grupo de versículos tem uma função clara."}
+   ],
+   "discussion": "The passage moves from a community of brothers to all of humanity. What does the widening of the address in verse 13 add to the rules in verses 10 to 12?",
+   "writing": "Write 150 to 200 words: Analyse how the four verses move from a community to all people, referring to specific words."
+  }
+ }
+}
