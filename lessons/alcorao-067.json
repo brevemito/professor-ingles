@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-067",
+ "type": "reference",
+ "title": "The Quran: Surah 67, al-Mulk (Sovereignty)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 67. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz. Cada nível estuda um excerto diferente.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 67, "from": 3, "to": 4},
+   "glossary": [["seven heavens", "sete céus"], ["layers", "camadas"], ["discrepancy", "falha, incoerência"], ["cracks", "fendas"], ["dazzled", "deslumbrada"], ["exhausted", "exausta"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 3, what does the speaker ask the reader to do?", "options": ["Listen carefully", "Look again", "Count the heavens", "Close his eyes"], "answer": 1, "why": "O versículo 3 diz: 'Look again.'"},
+    {"type": "vocabulary", "q": "'Cracks' in verse 3 means:", "options": ["thin breaks or faults in something", "bright colours", "sounds", "winds"], "answer": 0, "why": "'Cracks' são fendas ou falhas."},
+    {"type": "inference", "q": "Verse 3 says 'You see no discrepancy'. What is the speaker saying about the creation?", "options": ["That the creation is hidden", "That the creation is small", "That the creation is new", "That the reader sees no fault or inconsistency in it"], "answer": 3, "why": "'No discrepancy' quer dizer que o leitor não vê incoerência nem falha."},
+    {"type": "structure", "q": "How many times does the word 'again' appear in verses 3 and 4?", "options": ["2", "3", "4", "5"], "answer": 1, "why": "'Look again' no versículo 3, e 'look again, and again' no versículo 4: três vezes."},
+    {"type": "interpretation", "q": "Which sentence best sums up verses 3 and 4?", "options": ["The reader is told a story about a journey", "The reader is given a list of rules", "The reader is asked to count the layers", "The reader is challenged to look for faults and ends with a dazzled and tired sight"], "answer": 3, "why": "O versículo 3 desafia a procurar fendas e o versículo 4 diz que a vista volta 'dazzled and exhausted'."}
+   ],
+   "discussion": "The passage challenges the reader to look again and again. Is it a good method to test an idea by looking at it repeatedly? Why?",
+   "writing": "Write 80 to 100 words: Say what the reader is asked to do and what happens in the end."
+  },
+  "C1": {
+   "passage": {"surah": 67, "from": 1, "to": 2},
+   "glossary": [["Blessed", "Bendito"], ["sovereignty", "soberania"], ["has power over", "tem poder sobre"], ["death and life", "a morte e a vida"], ["test", "pôr à prova"], ["conduct", "conduta"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 2, what did He create?", "options": ["Day and night", "Death and life", "Sun and moon", "Land and sea"], "answer": 1, "why": "O versículo 2 diz: 'He who created death and life'."},
+    {"type": "vocabulary", "q": "'Better in conduct' (verse 2) refers to:", "options": ["behaviour", "wealth", "age", "distance"], "answer": 0, "why": "'Conduct' é conduta, comportamento."},
+    {"type": "inference", "q": "Verse 2 says He created death and life 'to test you'. What does 'test' suggest about the purpose?", "options": ["That behaviour is being examined", "That nothing is being examined", "That the test is a game of chance", "That the test has no purpose"], "answer": 0, "why": "O texto diz 'as to which of you is better in conduct'."},
+    {"type": "structure", "q": "Verse 1 describes Him with two clauses. Which?", "options": ["Who created death, and Who created life", "Who is the Almighty, and Who is the Forgiving", "Who sees, and Who hears", "In whose hand is the sovereignty, and Who has power over everything"], "answer": 3, "why": "O versículo 1 tem 'in whose hand is the sovereignty' e 'Who has power over everything'."},
+    {"type": "interpretation", "q": "Which statement is best supported?", "options": ["The passage tells a story about a king", "The passage lists laws about trade", "The passage names who holds sovereignty and states the purpose of death and life", "The passage describes a journey"], "answer": 2, "why": "O versículo 1 fala da soberania e o versículo 2 do propósito da morte e da vida."}
+   ],
+   "discussion": "Verse 2 says death and life were created 'to test you'. How does presenting death and life together as one act change how the reader thinks about them?",
+   "writing": "Write 120 to 150 words: Explain how verse 2 builds on the claim of verse 1."
+  },
+  "C2": {
+   "passage": {"surah": 67, "from": 1, "to": 4},
+   "glossary": [["Blessed", "Bendito"], ["sovereignty", "soberania"], ["Almighty", "Todo-Poderoso"], ["discrepancy", "falha, incoerência"], ["cracks", "fendas"], ["dazzled and exhausted", "deslumbrada e exausta"]],
+   "questions": [
+    {"type": "literal", "q": "Which two titles close verse 2?", "options": ["The Living, the Everlasting", "The Almighty, the Forgiving", "The Most High, the Great", "The Gracious, the Merciful"], "answer": 1, "why": "O versículo 2 acaba com 'He is the Almighty, the Forgiving'."},
+    {"type": "vocabulary", "q": "'Dazzled and exhausted' (verse 4) describes the sight as:", "options": ["calm and rested", "closed and blind", "overwhelmed and tired after looking so much", "far and small"], "answer": 2, "why": "'Dazzled' é deslumbrada e 'exhausted' é exausta."},
+    {"type": "inference", "q": "What does the final result in verse 4 suggest about the search for cracks?", "options": ["That many are found", "That the search is not made", "That none is found, and the effort wears the viewer out", "That the search is easy"], "answer": 2, "why": "O versículo 3 diz 'You see no discrepancy' e o versículo 4 diz que a vista volta deslumbrada e exausta."},
+    {"type": "structure", "q": "How does the passage shift between verse 2 and verse 3?", "options": ["From statements about Him and what He created to direct address and a challenge to the reader", "From a challenge to a story", "From a list of places to a list of names", "From a question to a rule"], "answer": 0, "why": "O versículo 3 usa 'You see' e 'Look again'."},
+    {"type": "interpretation", "q": "Which description of the passage is best supported?", "options": ["Four verses of commands", "A story with three characters", "Two verses of statements about Him, then two verses that challenge the reader to look and look again", "A list of four laws"], "answer": 2, "why": "Os versículos 1 e 2 são afirmações e os versículos 3 e 4 são o desafio ao leitor."}
+   ],
+   "discussion": "The passage moves from statements to commands and a question addressed to the reader. What does this shift do to the reader's role?",
+   "writing": "Write 150 to 200 words: Analyse how the passage moves from statement to challenge, referring to specific words."
+  }
+ }
+}
