@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-017",
+ "type": "reference",
+ "title": "The Quran: Surah 17, al-Isra' (The Night Journey)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 17. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz. Cada nível estuda um excerto diferente.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 17, "from": 23, "to": 23},
+   "glossary": [["commanded", "ordenou"], ["parents", "pais"], ["old age", "velhice"], ["disrespect", "falta de respeito"], ["scold", "repreender, ralhar"], ["kind words", "palavras bondosas"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 23, what should you not say to your parents?", "options": ["A word of disrespect", "A word of advice", "A word of thanks", "A word of greeting"], "answer": 0, "why": "O versículo 23 diz: 'do not say to them a word of disrespect'."},
+    {"type": "vocabulary", "q": "'Scold' means:", "options": ["to ask politely", "to speak angrily to someone because of something they did", "to thank someone", "to follow someone"], "answer": 1, "why": "'Scold' é repreender ou ralhar com alguém."},
+    {"type": "inference", "q": "The verse says 'If either of them or both of them reach old age with you'. When does this advice matter most?", "options": ["When the parents are far away", "When the parents are young", "When the parents are old", "When the parents are travelling"], "answer": 2, "why": "A frase 'reach old age with you' mostra que o conselho se aplica quando os pais envelhecem."},
+    {"type": "structure", "q": "Which pair of ideas does the verse put side by side?", "options": ["Disrespect and scolding, against kind words", "Wealth and poverty", "Day and night", "Travel and rest"], "answer": 0, "why": "O versículo diz o que não fazer (palavra de desrespeito, repreender) e o que fazer (kind words)."},
+    {"type": "interpretation", "q": "Which sentence best sums up the verse?", "options": ["It asks the reader to travel with his parents", "It asks the reader to give money to his parents", "Besides the command to worship none but Him, it asks for kindness towards parents, above all in old age", "It asks the reader to ask his parents for advice"], "answer": 2, "why": "O versículo começa com o mandamento sobre adorar só a Ele e depois pede bondade para com os pais, sobretudo na velhice."}
+   ],
+   "discussion": "The verse asks for kind words, not only for kind actions. Why might the way we speak matter so much when we care for older people?",
+   "writing": "Write 80 to 100 words: Explain what the verse asks the reader to do and not to do."
+  },
+  "C1": {
+   "passage": {"surah": 17, "from": 23, "to": 24},
+   "glossary": [["commanded", "ordenou"], ["scold", "repreender"], ["wing of humility", "asa de humildade"], ["mercy", "misericórdia"], ["raised", "criaram"], ["kind words", "palavras bondosas"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 24, what does the speaker say to his Lord about the parents?", "options": ["Give them wealth", "Send them a messenger", "Forgive me", "Have mercy on them, as they raised me when I was a child"], "answer": 3, "why": "O versículo 24 diz: 'My Lord, have mercy on them, as they raised me when I was a child.'"},
+    {"type": "vocabulary", "q": "'Lower to them the wing of humility' is:", "options": ["an image of gentle and humble behaviour towards them", "an instruction about flying", "a command to travel", "a description of a bird"], "answer": 0, "why": "É uma imagem: baixar a asa de humildade em relação aos pais, ou seja, tratá-los com mansidão."},
+    {"type": "inference", "q": "In verse 24 the speaker gives a reason for his request: 'as they raised me when I was a child'. What does this link show?", "options": ["That the speaker is still a child", "That the parents are young", "That the care received in childhood is the basis of the request", "That the parents are strangers"], "answer": 2, "why": "O pedido de misericórdia assenta no cuidado recebido quando era criança."},
+    {"type": "structure", "q": "How do verses 23 and 24 move?", "options": ["From a prayer to a rule", "From rules about behaviour, what to say and not to say, to a prayer in the speaker's own words", "From a question to a story", "From a story to a list of places"], "answer": 1, "why": "O versículo 23 dá regras sobre o que dizer e não dizer; o versículo 24 inclui uma oração entre aspas."},
+    {"type": "interpretation", "q": "Which statement is best supported?", "options": ["It covers only gifts", "It covers only travel", "It covers only worship", "It covers what to say to parents and the attitude of humility and mercy behind it"], "answer": 3, "why": "O versículo 23 fala das palavras e o versículo 24 fala de humildade e misericórdia."}
+   ],
+   "discussion": "Verse 23 gives rules about speech, and verse 24 turns to attitude and prayer. How does adding a prayer change the weight of the rules?",
+   "writing": "Write 120 to 150 words: Explain how verse 24 develops what verse 23 asks."
+  },
+  "C2": {
+   "passage": {"surah": 17, "from": 23, "to": 25},
+   "glossary": [["commanded", "ordenou"], ["disrespect", "falta de respeito"], ["wing of humility", "asa de humildade"], ["have mercy on them", "tem misericórdia deles"], ["righteous", "justo, íntegro"], ["Forgiving", "Indulgente"]],
+   "questions": [
+    {"type": "literal", "q": "What does verse 25 say about what is in your minds?", "options": ["No one knows what is in your minds", "Your minds are hidden from Him", "Your minds change every day", "Your Lord knows best what is in your minds"], "answer": 3, "why": "O versículo 25 diz: 'Your Lord knows best what is in your minds.'"},
+    {"type": "vocabulary", "q": "'Righteous' in verse 25 is closest to:", "options": ["very rich", "very old", "acting rightly, with good conduct", "very far away"], "answer": 2, "why": "'Righteous' descreve quem age de forma recta."},
+    {"type": "inference", "q": "Verse 25 follows verses about words and humility with a statement about what is in the mind. What does this link suggest?", "options": ["That the inner state matters alongside outward behaviour", "That outward behaviour does not matter", "That minds cannot be known by anyone", "That the passage has changed topic completely"], "answer": 0, "why": "Depois de regras de palavras e de atitude, o versículo 25 fala do que há nas mentes."},
+    {"type": "structure", "q": "Which description of the three verses is best supported?", "options": ["A story with three characters", "Three unrelated questions", "A list of prices", "A command with details of conduct (23), a prayer (24), and a closing statement about knowledge and forgiveness (25)"], "answer": 3, "why": "Cada versículo tem uma função: mandamento, oração e fecho."},
+    {"type": "interpretation", "q": "The passage ends with 'He is Forgiving to the obedient.' What does the ending add?", "options": ["A new command", "A note of reassurance about forgiveness after the instructions", "A question", "A list of places"], "answer": 1, "why": "O fecho diz que Ele é 'Forgiving' e acrescenta uma nota sobre perdão depois das instruções."}
+   ],
+   "discussion": "The passage moves from outward conduct, through prayer, to what is in the mind. What does this movement from outside to inside do for the reader?",
+   "writing": "Write 150 to 200 words: Analyse how the three verses move from conduct to prayer to inner state, referring to specific words."
+  }
+ }
+}
