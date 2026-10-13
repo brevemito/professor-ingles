@@ -52,6 +52,28 @@
   "reference": true
  },
  {
+  "id": "alcorao-002",
+  "file": "alcorao-002.json",
+  "title": "The Quran: Surah 2, al-Baqarah (The Heifer), verse 255 (Ayat al-Kursi)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "O versículo 255 da Surata 2 (Ayat al-Kursi), um versículo longo com muitas frases curtas encadeadas. O mesmo texto nos três níveis, com notas, perguntas e actividades diferentes.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-017",
+  "file": "alcorao-017.json",
+  "title": "The Quran: Surah 17, al-Isra' (The Night Journey)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Excertos da Surata 17 sobre o modo de tratar os pais na velhice. B2: versículo 23; C1: versículos 23 e 24; C2: versículos 23 a 25.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
   "id": "alcorao-024",
   "file": "alcorao-024.json",
   "title": "The Quran: Surah 24, an-Nur (The Light)",
@@ -74,6 +96,17 @@
   "reference": true
  },
  {
+  "id": "alcorao-049",
+  "file": "alcorao-049.json",
+  "title": "The Quran: Surah 49, al-Hujurat (The Chambers)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Excertos da Surata 49 sobre a convivência entre as pessoas. B2: versículo 13; C1: versículos 10 e 11; C2: versículos 10 a 13.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
   "id": "alcorao-055",
   "file": "alcorao-055.json",
   "title": "The Quran: Surah 55, ar-Rahman (The Compassionate)",
@@ -81,6 +114,17 @@
   "category": "Texto sagrado do Islão",
   "period": "Século VII",
   "description": "Excertos da Surata 55, com uma pergunta que se repete ao longo do texto. B2: versículos 1 a 13; C1: versículos 14 a 25; C2: versículos 1 a 25.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-067",
+  "file": "alcorao-067.json",
+  "title": "The Quran: Surah 67, al-Mulk (Sovereignty)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Excertos da Surata 67, com um desafio dirigido ao leitor ('Look again'). B2: versículos 3 e 4; C1: versículos 1 e 2; C2: versículos 1 a 4.",
   "levels": ["B2", "C1", "C2"],
   "reference": true
  },
