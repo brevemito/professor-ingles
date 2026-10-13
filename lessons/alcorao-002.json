@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-002",
+ "type": "reference",
+ "title": "The Quran: Surah 2, al-Baqarah (The Heifer), verse 255 (Ayat al-Kursi)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 2, versículo 255 (Ayat al-Kursi). O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 2, "from": 255, "to": 255},
+   "glossary": [["slumber", "sonolência"], ["sleep", "sono"], ["belongs", "pertence"], ["intercede", "interceder"], ["permission", "permissão"], ["burden", "fardo, peso"]],
+   "questions": [
+    {"type": "literal", "q": "According to the verse, what does not overtake Him?", "options": ["Slumber or sleep", "Hunger", "Fear", "Time"], "answer": 0, "why": "O versículo diz: 'Neither slumber overtakes Him, nor sleep.'"},
+    {"type": "vocabulary", "q": "'Intercede' means:", "options": ["to run away", "to speak on behalf of someone else, asking something for them", "to build a house", "to count money"], "answer": 1, "why": "'Intercede' é interceder, pedir algo a favor de outra pessoa."},
+    {"type": "inference", "q": "The verse asks 'Who is he that can intercede with Him except with His permission?' What answer does the question suggest?", "options": ["Everyone, at any time", "No one, unless He allows it", "Only the oldest", "Only the richest"], "answer": 1, "why": "A pergunta inclui 'except with His permission', por isso ninguém o pode fazer sem essa permissão."},
+    {"type": "structure", "q": "How does the verse begin?", "options": ["With a question", "With the word 'Say'", "With a list of numbers", "With a name and an exclamation mark"], "answer": 3, "why": "O versículo começa com 'Allah!'."},
+    {"type": "interpretation", "q": "Which sentence best sums up the verse?", "options": ["It tells a story about a journey", "It gives rules about trade", "It describes Him as living and never sleeping, as owner of all things, and as one whose care for the heavens and the earth does not burden Him", "It describes a battle"], "answer": 2, "why": "O versículo diz 'the Living', 'neither slumber... nor sleep', 'To Him belongs everything' e 'does not burden Him'."}
+   ],
+   "discussion": "The verse describes with negatives ('neither slumber... nor sleep', 'does not burden Him'). Why might a text describe something by saying what it is not?",
+   "writing": "Write 80 to 100 words: Explain in your own words what the verse says about Him."
+  },
+  "C1": {
+   "passage": {"surah": 2, "from": 255, "to": 255},
+   "glossary": [["Everlasting", "Eterno"], ["overtakes", "apanha, domina"], ["intercede", "interceder"], ["grasp", "compreender, agarrar"], ["Throne", "Trono"], ["preservation", "conservação"]],
+   "questions": [
+    {"type": "literal", "q": "What does 'His Throne' extend over?", "options": ["The heavens and the earth", "The sea and the sky", "The mountains", "The desert"], "answer": 0, "why": "O versículo diz: 'His Throne extends over the heavens and the earth'."},
+    {"type": "vocabulary", "q": "In 'they cannot grasp any of His knowledge, except as He wills', 'grasp' is closest to:", "options": ["understand or take hold of", "throw away", "hide", "count"], "answer": 0, "why": "'Grasp' é compreender ou agarrar."},
+    {"type": "inference", "q": "'He knows what is before them, and what is behind them.' What does this pair suggest?", "options": ["That His knowledge is limited", "That He knows only the past", "That He knows only the future", "That His knowledge is complete, covering what is in front and what is behind"], "answer": 3, "why": "'Before' e 'behind' cobrem os dois lados."},
+    {"type": "structure", "q": "The verse uses pairs: 'slumber... sleep', 'before them... behind them', 'the heavens and the earth'. What effect do the pairs have?", "options": ["They change the topic each time", "They give a sense of completeness, covering both sides of each idea", "They ask questions", "They end the verse"], "answer": 1, "why": "Cada par cobre os dois lados de uma ideia."},
+    {"type": "interpretation", "q": "Which statement is best supported?", "options": ["The verse combines statements about who He is, what He does not need, what belongs to Him, what He knows, and the limits of what others can do", "The verse is only a list of names", "The verse tells a story with characters", "The verse gives instructions for travel"], "answer": 0, "why": "O versículo passa por vários aspectos: quem Ele é, o sono, a posse, o conhecimento e os limites dos outros."}
+   ],
+   "discussion": "The verse is a series of short statements, each adding a new aspect. How does the accumulation shape the way the reader pictures the whole?",
+   "writing": "Write 120 to 150 words: Explain how the pairs of words in the verse contribute to its meaning."
+  },
+  "C2": {
+   "passage": {"surah": 2, "from": 255, "to": 255},
+   "glossary": [["the Living", "o Vivo"], ["the Everlasting", "o Eterno"], ["preservation", "conservação"], ["the Most High", "o Altíssimo"], ["the Great", "o Grande"], ["except as He wills", "excepto como Ele quiser"]],
+   "questions": [
+    {"type": "literal", "q": "Which two titles close the verse?", "options": ["The Living, the Everlasting", "The Almighty, the Forgiving", "The Gracious, the Merciful", "The Most High, the Great"], "answer": 3, "why": "O versículo acaba com 'He is the Most High, the Great.'"},
+    {"type": "vocabulary", "q": "'Neither slumber overtakes Him, nor sleep' inverts ordinary word order. What effect does this have?", "options": ["An informal tone", "A tone of doubt", "A tone of a question", "An elevated, formal tone"], "answer": 3, "why": "A estrutura 'neither... nor' e a ordem invertida dão um tom solene."},
+    {"type": "inference", "q": "The verse moves between statements about Him and statements about what others cannot do (intercede, grasp). What does this contrast suggest?", "options": ["That everything else is equal to Him", "That others are never mentioned", "A contrast between His completeness and the limits of everything else", "That the verse is about travel"], "answer": 2, "why": "A pergunta sobre interceder e 'they cannot grasp' marcam o que os outros não podem fazer."},
+    {"type": "structure", "q": "Which description of the verse's structure is best supported?", "options": ["A story in three parts", "A list of five commands", "An opening name and two titles, a statement about sleep, a statement of ownership, a question, statements about knowledge and the Throne, and two closing titles", "A dialogue between two speakers"], "answer": 2, "why": "O versículo segue essa sequência, do nome inicial aos dois títulos finais."},
+    {"type": "interpretation", "q": "The verse opens with titles ('the Living, the Everlasting') and closes with titles ('the Most High, the Great'). What does this framing do?", "options": ["It changes the speaker", "It gives the verse a frame of titles around the statements in between", "It ends the verse early", "It turns the verse into a question"], "answer": 1, "why": "Os títulos no início e no fim fecham os restantes elementos entre eles."}
+   ],
+   "discussion": "The verse has a frame of titles at the start and the end, with statements about sleep, ownership, intercession and knowledge between. How does the frame hold together such different statements?",
+   "writing": "Write 150 to 200 words: Analyse how the verse is built, referring to specific words and to the pattern of statements, pairs and titles."
+  }
+ }
+}
