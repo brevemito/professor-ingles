@@ -41,6 +41,12 @@
   "reference": true
  },
  {
+  "type": "ad",
+  "id": "anuncio-alison-ingles",
+  "file": "curso-ingles-alison.html",
+  "title": "Diploma em Inglês, nível A1 (Alison)"
+ },
+ {
   "id": "alcorao-001",
   "file": "alcorao-001.json",
   "title": "The Quran: Surah 1, al-Fatihah (The Opening)",
@@ -226,5 +232,11 @@
   "description": "A última surata, com seis versículos. Cada nível estuda o texto completo, com atenção aos títulos repetidos e ao perigo descrito.",
   "levels": ["B2", "C1", "C2"],
   "reference": true
+ },
+ {
+  "type": "ad",
+  "id": "anuncio-chess-premium",
+  "file": "chess-premium.html",
+  "title": "Chess.com Premium"
  }
 ]
