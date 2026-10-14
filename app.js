@@ -77,7 +77,9 @@ if (NIVEIS.indexOf(nivel) < 0) { nivel = "B2"; }
 var prog = ler("prog", {});
 if (!prog || typeof prog !== "object") { prog = {}; }
 var livros = [];
+var anuncios = [];
 var cache = {};
+var cacheTxt = {};
 var atual = null;
 var app = $("app");
 
@@ -107,6 +109,35 @@ function pedir(ficheiro, cb) {
   }).then(function (j) {
     cache[ficheiro] = j; cb(null, j);
   }).catch(function () { cb(ERRO_LEITURA, null); });
+}
+function pedirTexto(caminho, cb) {
+  if (cacheTxt[caminho] !== undefined) { cb(null, cacheTxt[caminho]); return; }
+  fetch(caminho).then(function (r) {
+    if (!r.ok) { throw new Error("http " + r.status); }
+    return r.text();
+  }).then(function (t) {
+    cacheTxt[caminho] = t; cb(null, t);
+  }).catch(function () { cb(ERRO_LEITURA, null); });
+}
+/* Anúncios: entradas com "type": "ad" em lessons/index.json. O HTML de cada um está em ads/[ficheiro].
+   Aparecem na lista de leituras no ponto onde estão no index.json. Se o ficheiro falhar, o anúncio some sem erro. */
+function desenharAnuncio(ad) {
+  var cx = el("div", "anuncio");
+  cx.setAttribute("role", "group");
+  cx.setAttribute("aria-label", "Publicidade: " + (ad.title || ""));
+  cx.appendChild(el("p", "nota", "Publicidade"));
+  var corpo = el("div", "anuncio-corpo");
+  cx.appendChild(corpo);
+  pedirTexto("ads/" + ad.file, function (err, html) {
+    if (err) { if (cx.parentNode) { cx.parentNode.removeChild(cx); } return; }
+    corpo.innerHTML = html;
+  });
+  return cx;
+}
+function anunciosEm(pos) {
+  for (var k = 0; k < anuncios.length; k++) {
+    if (anuncios[k].depois === pos) { app.appendChild(desenharAnuncio(anuncios[k])); }
+  }
 }
 function mostrarErro(msg, tentar) {
   limpa(app);
@@ -180,6 +211,7 @@ function listaLivros() {
   }
   app.appendChild(el("p", "nota", "Escolhe um livro. Cada leitura tem três níveis (B2, C1 e C2); vês o nível seleccionado em cima."));
   for (var i = 0; i < livros.length; i++) {
+    anunciosEm(i);
     (function (lv) {
       var c = el("div", "card livro");
       c.setAttribute("role", "button"); c.setAttribute("tabindex", "0");
@@ -199,6 +231,7 @@ function listaLivros() {
       app.appendChild(c);
     })(livros[i]);
   }
+  anunciosEm(livros.length);
 }
 
 /* BLOCOS DA LICAO (partilhados por todos os livros) */
@@ -558,7 +591,12 @@ function carregarIndice() {
     if (!r.ok) { throw new Error("http " + r.status); }
     return r.json();
   }).then(function (j) {
-    livros = j; refrescar();
+    livros = []; anuncios = [];
+    for (var n = 0; n < j.length; n++) {
+      if (j[n].type === "ad") { j[n].depois = livros.length; anuncios.push(j[n]); }
+      else { livros.push(j[n]); }
+    }
+    refrescar();
   }).catch(function () { mostrarErro(ERRO_INDICE, carregarIndice); });
 }
 desenharNiveis();
