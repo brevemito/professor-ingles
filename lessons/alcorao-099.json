@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-099",
+ "type": "reference",
+ "title": "The Quran: Surah 99, az-Zalzalah (The Quake)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 99. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 99, "from": 1, "to": 8},
+   "glossary": [["shaken", "abalada"], ["quake", "tremor"], ["loads", "cargas"], ["tales", "histórias"], ["emerge", "sair, aparecer"], ["atom's weight", "peso de um átomo"]],
+   "questions": [
+    {"type": "literal", "q": "What will the earth bring out, according to verse 2?", "options": ["Its rivers", "Its stars", "Its loads", "Its songs"], "answer": 2, "why": "O versículo 2 diz: 'the earth brings out its loads'."},
+    {"type": "vocabulary", "q": "'In droves' (verse 6) means:", "options": ["alone and in silence", "in large numbers", "very slowly", "in secret"], "answer": 1, "why": "'In droves' quer dizer em grande número."},
+    {"type": "inference", "q": "Verse 6 says people will emerge 'to be shown their works'. What does this suggest?", "options": ["That what people have done will be shown to them", "That people will forget what they did", "That people will build something new", "That people will travel"], "answer": 0, "why": "O texto diz 'to be shown their works'."},
+    {"type": "structure", "q": "Which two verses are almost the same, except for one word?", "options": ["Verses 1 and 2", "Verses 3 and 4", "Verses 5 and 6", "Verses 7 and 8"], "answer": 3, "why": "Os versículos 7 e 8 só trocam 'good' por 'evil' e juntam 'And'."},
+    {"type": "interpretation", "q": "Which sentence best sums up verses 7 and 8?", "options": ["Only large actions will be seen", "Even the smallest good or evil will be seen", "Nothing will be seen", "Only good will be seen"], "answer": 1, "why": "'An atom's weight' é uma medida muito pequena, e os dois versículos acabam com 'will see it'."}
+   ],
+   "discussion": "Verses 7 and 8 use a very small weight to talk about what people do. Why might a text choose such a small measure?",
+   "writing": "Write 80 to 100 words: Say what happens to the earth and to the people in this passage."
+  },
+  "C1": {
+   "passage": {"surah": 99, "from": 1, "to": 8},
+   "glossary": [["quake", "tremor"], ["brings out", "faz sair"], ["droves", "multidões"], ["shown", "mostradas"], ["whoever", "quem quer que"], ["atom's weight", "peso de um átomo"]],
+   "questions": [
+    {"type": "literal", "q": "What does man say in verse 3?", "options": ["Where is the sea?", "Who made the sun?", "When will it end?", "What is the matter with it?"], "answer": 3, "why": "O versículo 3 diz: 'And man says, “What is the matter with it?”'"},
+    {"type": "vocabulary", "q": "In 'Whoever has done an atom's weight of good will see it', 'whoever' means:", "options": ["only one person who", "a person who does not", "any person who", "a person who will not"], "answer": 2, "why": "'Whoever' é qualquer pessoa que."},
+    {"type": "inference", "q": "Verse 4 says the earth 'will tell its tales' and verse 5 says 'your Lord will have inspired it'. What explanation do the two verses give together?", "options": ["The earth speaks by chance", "The earth speaks because man asked", "The earth does not speak", "The earth speaks because it was inspired"], "answer": 3, "why": "O versículo 5 começa com 'For' e dá a razão do versículo 4."},
+    {"type": "structure", "q": "How does 'And whoever...' in verse 8 relate to 'Whoever...' in verse 7?", "options": ["It repeats verse 7 exactly", "It changes the topic", "It is a parallel sentence that gives the opposite case", "It asks a question"], "answer": 2, "why": "O versículo 7 fala do bem e o 8 fala do mal, com a mesma construção."},
+    {"type": "interpretation", "q": "Which description of the passage is best supported?", "options": ["A story with a king", "A list of laws", "A conversation between two friends", "A shaking earth (1 and 2), a human question (3), the earth telling (4 and 5), people shown their works (6), and two parallel results (7 and 8)"], "answer": 3, "why": "Cada grupo de versículos tem uma função clara."}
+   ],
+   "discussion": "The passage moves from a physical event, the earth shaking, to what it means for people. How does this order shape the reader's attention?",
+   "writing": "Write 120 to 150 words: Explain how verses 7 and 8 work as a pair."
+  },
+  "C2": {
+   "passage": {"surah": 99, "from": 1, "to": 8},
+   "glossary": [["When the earth is shaken", "quando a terra for abalada"], ["brings out its loads", "faz sair as suas cargas"], ["tell its tales", "contar as suas histórias"], ["inspired", "inspirou"], ["emerge in droves", "sair em multidões"], ["an atom's weight of evil", "o peso de um átomo de mal"]],
+   "questions": [
+    {"type": "literal", "q": "In which verse does 'On that Day' appear for the first time?", "options": ["Verse 3", "Verse 4", "Verse 6", "Verse 8"], "answer": 1, "why": "'On that Day' aparece pela primeira vez no versículo 4 e volta no versículo 6."},
+    {"type": "vocabulary", "q": "'The earth brings out its loads' and 'it will tell its tales' show the earth as:", "options": ["an agent that acts and speaks", "a place that is empty", "a thing that is silent", "a road"], "answer": 0, "why": "Os verbos 'brings out' e 'tell' têm a terra como sujeito."},
+    {"type": "inference", "q": "In verse 3, man asks 'What is the matter with it?' and verse 4 answers. What does the answer make clear?", "options": ["That the earth itself will give the explanation", "That man will give the explanation", "That nobody will answer", "That the question is a mistake"], "answer": 0, "why": "O versículo 4 diz 'it will tell its tales'."},
+    {"type": "structure", "q": "Verses 7 and 8 differ only in 'good' and 'evil' (and the opening 'And'). What effect does this near repetition have?", "options": ["It makes the verses unclear", "It sets two opposites side by side with the same weight and the same result", "It changes the speaker", "It ends the passage early"], "answer": 1, "why": "As duas frases têm a mesma medida e o mesmo fim, 'will see it'."},
+    {"type": "interpretation", "q": "Which statement is best supported by the passage as a whole?", "options": ["It moves from a physical event to its meaning for people, and ends with two parallel results", "It tells one story with one character", "It lists legal rules", "It describes a journey"], "answer": 0, "why": "Versículos 1 e 2: acontecimento físico. Versículos 3 a 6: o que isso significa para as pessoas. Versículos 7 e 8: resultados paralelos."}
+   ],
+   "discussion": "The passage opens with a loud physical event and closes with the smallest possible measure. What does this movement from huge to tiny do?",
+   "writing": "Write 150 to 200 words: Analyse how the eight verses move from the earth to the people, referring to specific words and to the pair in verses 7 and 8."
+  }
+ }
+}
