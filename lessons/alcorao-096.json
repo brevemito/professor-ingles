@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-096",
+ "type": "reference",
+ "title": "The Quran: Surah 96, al-'Alaq (The Clot), verses 1 to 5",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 96 (versículos 1 a 5). O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 96, "from": 1, "to": 5},
+   "glossary": [["read", "lê"], ["created", "criou"], ["clot", "coágulo"], ["generous", "generoso"], ["taught", "ensinou"], ["pen", "caneta"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 4, how did He teach?", "options": ["By the sword", "By the voice", "By the pen", "By the road"], "answer": 2, "why": "O versículo 4 diz: 'He who taught by the pen.'"},
+    {"type": "vocabulary", "q": "'Taught' is the past form of:", "options": ["take", "tell", "touch", "teach"], "answer": 3, "why": "'Taught' é o passado de 'teach' (ensinar)."},
+    {"type": "inference", "q": "The passage begins with 'Read'. What does this tell you about how the passage speaks?", "options": ["It tells a story in the past", "It asks a question about the weather", "It lists places", "It gives an order directly to the reader"], "answer": 3, "why": "'Read:' no versículo 1 é uma ordem dirigida ao leitor."},
+    {"type": "structure", "q": "How many times does the word 'Read' appear in the passage?", "options": ["1", "2", "3", "4"], "answer": 1, "why": "'Read' aparece no versículo 1 e no versículo 3."},
+    {"type": "interpretation", "q": "Which sentence best sums up the passage?", "options": ["A story about a long journey", "A list of rules about trade", "A description of a city", "An order to read, with what the Lord created and taught: man, by the pen, what he never knew"], "answer": 3, "why": "Os versículos 1 e 3 mandam ler, o 2 fala da criação do homem e os 4 e 5 falam de ensinar com a caneta."}
+   ],
+   "discussion": "The passage speaks of teaching by the pen and of learning what we never knew. What is the last new thing you learned by reading or writing?",
+   "writing": "Write 80 to 100 words: Say what the verses tell the reader to do and what they say about the Lord."
+  },
+  "C1": {
+   "passage": {"surah": 96, "from": 1, "to": 5},
+   "glossary": [["Name of your Lord", "nome do teu Senhor"], ["clot", "coágulo"], ["Most Generous", "o Mais Generoso"], ["taught by the pen", "ensinou pela caneta"], ["never knew", "nunca soube"], ["created", "criou"]],
+   "questions": [
+    {"type": "literal", "q": "What did He teach man, according to verse 5?", "options": ["How to build a house", "How to count the stars", "How to cross the sea", "What he never knew"], "answer": 3, "why": "O versículo 5 diz: 'Taught man what he never knew.'"},
+    {"type": "vocabulary", "q": "'Most Generous' (verse 3) is a:", "options": ["comparative form", "negative form", "superlative form", "question form"], "answer": 2, "why": "'Most Generous' é um superlativo: o grau mais alto de 'generous'."},
+    {"type": "inference", "q": "Verses 4 and 5 both use 'taught'. What link do they create?", "options": ["A link between the pen, as the means, and what man never knew, as the result", "A link between the clot and the pen", "A link between two cities", "No link at all"], "answer": 0, "why": "O versículo 4 diz como (by the pen) e o versículo 5 diz o quê (what he never knew)."},
+    {"type": "structure", "q": "Verses 1 and 3 both begin with 'Read:'. What does the repetition do?", "options": ["It repeats the same command and adds a new description each time", "It changes the speaker", "It ends the passage", "It turns the passage into a question"], "answer": 0, "why": "O versículo 1 junta 'who created' e o versículo 3 junta 'the Most Generous'."},
+    {"type": "interpretation", "q": "Which statement is best supported?", "options": ["The passage moves from teaching to a battle", "The passage moves from creation (verses 1 and 2) to teaching (verses 3 to 5)", "The passage lists five laws", "The passage has no order"], "answer": 1, "why": "Os versículos 1 e 2 falam de criar e os versículos 4 e 5 de ensinar, com o versículo 3 a ligar os dois."}
+   ],
+   "discussion": "The command 'Read' opens the passage and returns in verse 3. How does the second 'Read' change what the reader expects?",
+   "writing": "Write 120 to 150 words: Explain how verses 4 and 5 develop the idea of verse 3."
+  },
+  "C2": {
+   "passage": {"surah": 96, "from": 1, "to": 5},
+   "glossary": [["In the Name of your Lord", "em nome do teu Senhor"], ["who created", "que criou"], ["from a clot", "de um coágulo"], ["Most Generous", "o Mais Generoso"], ["by the pen", "pela caneta"], ["he never knew", "que ele nunca soube"]],
+   "questions": [
+    {"type": "literal", "q": "What does verse 2 say He created man from?", "options": ["A pen", "A clot", "Water", "Light"], "answer": 1, "why": "O versículo 2 diz: 'Created man from a clot.'"},
+    {"type": "vocabulary", "q": "Verse 2 begins with 'Created' and has no subject of its own. How does it connect to verse 1?", "options": ["It continues what verse 1 says about the Lord who created", "It starts a new topic", "It repeats verse 5", "It asks a question"], "answer": 0, "why": "O versículo 1 acaba com 'who created' e o versículo 2 continua com 'Created man'."},
+    {"type": "inference", "q": "Verse 5 says 'what he never knew'. What does this phrase suggest about man before being taught?", "options": ["That man knew everything", "That man did not have that knowledge by himself", "That man could not read", "That man was never created"], "answer": 1, "why": "'Never knew' indica um conhecimento que o homem não tinha."},
+    {"type": "structure", "q": "Which description of the passage's structure is best supported?", "options": ["Question, answer, question, answer, question", "Command (1), creation (2), command again (3), teaching by the pen (4), what man never knew (5)", "A story with three characters", "A list of five places"], "answer": 1, "why": "Cada versículo tem uma função própria nesta sequência."},
+    {"type": "interpretation", "q": "What does the central position of verse 3, 'your Lord is the Most Generous', do?", "options": ["It ends the passage", "It changes the speaker", "It links creation (1 and 2) and teaching (4 and 5)", "It repeats verse 1"], "answer": 2, "why": "O versículo 3 fica entre os que falam de criar e os que falam de ensinar."}
+   ],
+   "discussion": "Creation comes first and teaching last, with generosity in the middle. What does this order suggest about the relation between being created and knowing?",
+   "writing": "Write 150 to 200 words: Analyse how the five verses are built around the two commands to read, referring to specific words."
+  }
+ }
+}
