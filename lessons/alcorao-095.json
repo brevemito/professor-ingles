@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-095",
+ "type": "reference",
+ "title": "The Quran: Surah 95, at-Tin (The Fig)",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 95. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 95, "from": 1, "to": 8},
+   "glossary": [["fig", "figo"], ["olive", "azeitona"], ["safe land", "terra segura"], ["design", "forma, desenho"], ["reward", "recompensa"], ["reject", "rejeitar"]],
+   "questions": [
+    {"type": "literal", "q": "According to verse 4, how did He create man?", "options": ["In the best design", "In the lowest form", "In a hurry", "In silence"], "answer": 0, "why": "O versículo 4 diz: 'We created man in the best design.'"},
+    {"type": "vocabulary", "q": "'Design' in verse 4 is closest to:", "options": ["noise", "form or shape", "journey", "weight"], "answer": 1, "why": "'Design' é a forma ou o desenho."},
+    {"type": "inference", "q": "Verse 5 says 'the lowest of the low'. What contrast does it make with verse 4?", "options": ["A contrast between day and night", "A contrast between two cities", "A contrast between the best design and the lowest of the low", "No contrast at all"], "answer": 2, "why": "O versículo 4 diz 'the best design' e o versículo 5 diz 'the lowest of the low'."},
+    {"type": "structure", "q": "What kind of sentences are verses 7 and 8?", "options": ["Commands", "Questions", "Stories", "Lists of places"], "answer": 1, "why": "Os versículos 7 e 8 acabam com ponto de interrogação."},
+    {"type": "interpretation", "q": "Which sentence best sums up verses 4 to 6?", "options": ["Man is created and then forgotten", "Man travels to a safe land", "Man plants a fig tree", "Man is created in the best design and reduced to the lowest, except those who believe and do right, who have a reward without end"], "answer": 3, "why": "Os versículos 4 a 6 juntam a criação, a queda e a excepção."}
+   ],
+   "discussion": "Verses 4 and 5 present a strong contrast. Can you think of a story, a film or a text that uses a contrast like this?",
+   "writing": "Write 80 to 100 words: Say what the passage tells us about man."
+  },
+  "C1": {
+   "passage": {"surah": 95, "from": 1, "to": 8},
+   "glossary": [["By the fig", "pelo figo"], ["Mount Sinai", "Monte Sinai"], ["safe land", "terra segura"], ["best design", "melhor forma"], ["lowest of the low", "o mais baixo dos baixos"], ["righteous deeds", "boas obras, obras rectas"]],
+   "questions": [
+    {"type": "literal", "q": "Which three things are named in verses 1 to 3?", "options": ["The fig and the olive, Mount Sinai, and this safe land", "The sun, the moon and the stars", "The sea, the river and the lake", "The city, the road and the house"], "answer": 0, "why": "Os versículos 1 a 3 nomeiam o figo e a azeitona, o Monte Sinai e esta terra segura."},
+    {"type": "vocabulary", "q": "In verse 6, 'Except those who believe and do righteous deeds' introduces:", "options": ["a question", "a group left out of what verse 5 says", "a new place", "a command"], "answer": 1, "why": "'Except' marca quem fica de fora do que o versículo 5 diz."},
+    {"type": "inference", "q": "What does the word 'Except' tell us about verse 5?", "options": ["That it applies to everyone", "That it does not apply to the group named in verse 6", "That it is a question", "That it is about the past only"], "answer": 1, "why": "A excepção do versículo 6 limita o versículo 5."},
+    {"type": "structure", "q": "Which description of the passage's movement is best supported?", "options": ["A question, then a story", "A list of laws, then a prayer", "A dialogue between two speakers", "Things named by 'And' (1 to 3), a statement about man (4 and 5), an exception (6), two questions (7 and 8)"], "answer": 3, "why": "Cada grupo de versículos tem uma função diferente."},
+    {"type": "interpretation", "q": "Which description of the last two verses is best supported?", "options": ["Two commands to travel", "Two names of places", "Two questions that ask the reader to think about rejecting and about wisdom", "Two promises about money"], "answer": 2, "why": "O versículo 7 pergunta por que rejeitar e o versículo 8 pergunta 'Is Allah not the Wisest of the wise?'."}
+   ],
+   "discussion": "The passage moves from named places and trees to a statement about man and then to questions. How does this order prepare the reader for the questions at the end?",
+   "writing": "Write 120 to 150 words: Explain how verse 6 changes the meaning of verse 5."
+  },
+  "C2": {
+   "passage": {"surah": 95, "from": 1, "to": 8},
+   "glossary": [["By the fig and the olive", "pelo figo e pela azeitona"], ["created man in the best design", "criámos o homem na melhor forma"], ["reduced him", "reduzimo-lo"], ["the lowest of the low", "o mais baixo dos baixos"], ["a reward without end", "uma recompensa sem fim"], ["the Wisest of the wise", "o mais Sábio dos sábios"]],
+   "questions": [
+    {"type": "literal", "q": "Which question closes the passage?", "options": ["Who created the fig?", "Where is the safe land?", "What is a reward?", "Is Allah not the Wisest of the wise?"], "answer": 3, "why": "O versículo 8 diz: 'Is Allah not the Wisest of the wise?'"},
+    {"type": "vocabulary", "q": "'The lowest of the low' and 'the Wisest of the wise' share a structure. Which?", "options": ["A question and an answer", "A command and a reason", "A superlative built by repeating the word: X of the X", "A place and a time"], "answer": 2, "why": "As duas expressões repetem a palavra: 'low... low', 'wise... wise'."},
+    {"type": "inference", "q": "Verse 7 asks 'So why do you still reject the religion?' What does 'still' suggest?", "options": ["That the rejection continues despite what was said before", "That the rejection has ended", "That the reader has not heard anything", "That the question is a joke"], "answer": 0, "why": "'Still' sugere que a rejeição continua apesar do que vem antes."},
+    {"type": "structure", "q": "Which pair of verses forms a contrast?", "options": ["Verses 1 and 2", "Verses 2 and 3", "Verses 4 and 5", "Verses 7 and 8"], "answer": 2, "why": "O versículo 4 diz 'the best design' e o versículo 5 diz 'the lowest of the low'."},
+    {"type": "interpretation", "q": "Which description of the passage's progression is best supported?", "options": ["A story with names", "A list of laws", "Three things named (1 to 3), the creation and fall of man with an exception (4 to 6), and two closing questions (7 and 8)", "A prayer and a rule"], "answer": 2, "why": "Cada bloco tem uma função clara."}
+   ],
+   "discussion": "The passage ends with two questions instead of a statement. What does closing with questions do to the way the reader finishes the text?",
+   "writing": "Write 150 to 200 words: Analyse how the eight verses build towards the final questions, referring to specific words."
+  }
+ }
+}
