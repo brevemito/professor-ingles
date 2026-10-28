@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-057",
+ "type": "reference",
+ "title": "The Quran: Surah 57, al-Hadid (The Iron), verse 20",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 57, versículo 20. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 57, "from": 20, "to": 20},
+   "glossary": [["worldly life", "vida terrena"], ["glitter", "brilho"], ["boasting", "gabarolice"], ["rainfall", "chuva"], ["withers", "murcha"], ["debris", "restos"]],
+   "questions": [
+    {"type": "literal", "q": "According to the verse, what is the worldly life compared to?", "options": ["A river that never ends", "A rainfall that produces plants", "A mountain", "A road"], "answer": 1, "why": "O versículo diz: 'It is like a rainfall that produces plants'."},
+    {"type": "vocabulary", "q": "'Withers' in 'it withers' means:", "options": ["grows quickly", "turns into water", "dries up and loses life", "moves away"], "answer": 2, "why": "'Withers' é murchar."},
+    {"type": "inference", "q": "The verse says the plants grow, wither, turn yellow and become debris. What does this list show?", "options": ["A list of fruits", "A list of places", "A process of change over time", "A list of colours only"], "answer": 2, "why": "Cada passo segue o anterior: produz, murcha, amarelece, fica em restos."},
+    {"type": "structure", "q": "Which list does the first sentence contain?", "options": ["Fire, water, earth and air", "Father, mother, son and daughter", "Morning, noon, evening and night", "Play, distraction, glitter, boasting and rivalry"], "answer": 3, "why": "A primeira frase lista 'play, and distraction, and glitter, and boasting... and rivalry'."},
+    {"type": "interpretation", "q": "Which sentence best sums up the verse?", "options": ["The worldly life is compared to rain that gives plants that then dry up, while the Hereafter is described differently", "The worldly life is a long journey", "The worldly life is a battle", "The worldly life is a feast"], "answer": 0, "why": "O versículo compara a vida terrena a chuva e plantas e depois contrasta com o Além."}
+   ],
+   "discussion": "The verse compares life to plants that grow and then dry up. Which other picture from nature could describe how things change?",
+   "writing": "Write 80 to 100 words: Describe in your own words the picture of the plants in this verse."
+  },
+  "C1": {
+   "passage": {"surah": 57, "from": 20, "to": 20},
+   "glossary": [["distraction", "distracção"], ["rivalry", "rivalidade"], ["delights", "agrada"], ["withers", "murcha"], ["yellowing", "a amarelecer"], ["vanity", "vaidade"]],
+   "questions": [
+    {"type": "literal", "q": "What does the rainfall produce, and who does it delight, according to the verse?", "options": ["Plants, and it delights the disbelievers", "Rivers, and it delights the poor", "Gold, and it delights the traders", "Fire, and it delights the strong"], "answer": 0, "why": "O versículo diz 'a rainfall that produces plants, and delights the disbelievers'."},
+    {"type": "vocabulary", "q": "'Rivalry in wealth and children' means:", "options": ["sharing wealth with children", "hiding wealth from children", "counting children", "competition between people about wealth and children"], "answer": 3, "why": "'Rivalry' é rivalidade, competição."},
+    {"type": "inference", "q": "'Delights the disbelievers' comes before 'But then it withers'. What does this order create?", "options": ["A list of equal things", "A contrast between a pleasant start and a poor end", "A question", "A command"], "answer": 1, "why": "O 'But then' separa o agrado do murchar."},
+    {"type": "structure", "q": "How does the verse organise its argument?", "options": ["A story, a dialogue, a list, a prayer, a rule", "Five questions in a row", "A list, a comparison, a change in stages, a contrast with the Hereafter, a closing statement", "A single long sentence"], "answer": 2, "why": "O versículo tem cinco frases, cada uma com uma função."},
+    {"type": "interpretation", "q": "Which statement is best supported?", "options": ["The verse describes the worldly life through things that seem lively but pass away", "The verse describes the worldly life as endless", "The verse describes the worldly life as a battle", "The verse does not describe the worldly life"], "answer": 0, "why": "'Play', 'glitter', plantas que murcham e 'enjoyment of vanity' apontam para coisas que passam."}
+   ],
+   "discussion": "The verse builds its comparison in stages, from rain to debris. How does this step by step order affect the way the reader takes in the image?",
+   "writing": "Write 120 to 150 words: Explain how the picture of the rain and the plants supports the first sentence of the verse."
+  },
+  "C2": {
+   "passage": {"surah": 57, "from": 20, "to": 20},
+   "glossary": [["play, and distraction", "jogo e distracção"], ["boasting among you", "gabarolice entre vós"], ["like a rainfall", "como a chuva"], ["it withers", "murcha"], ["becomes debris", "fica em restos"], ["enjoyment of vanity", "gozo da vaidade"]],
+   "questions": [
+    {"type": "literal", "q": "What does the verse say is in the Hereafter?", "options": ["Only agony", "Only forgiveness", "Severe agony, forgiveness from Allah, and acceptance", "Rain and plants"], "answer": 2, "why": "O versículo diz 'severe agony, and forgiveness from Allah, and acceptance'."},
+    {"type": "vocabulary", "q": "'While in the Hereafter' (fourth sentence) signals:", "options": ["a repetition of the first sentence", "a question", "a list of places", "a contrast with the life described before"], "answer": 3, "why": "'While' introduz o contraste com a vida terrena."},
+    {"type": "inference", "q": "The last sentence returns to the idea of the first. What does it do?", "options": ["It opens a new topic", "It asks a question", "It ends with a list of names", "It closes the verse by returning to its starting point in a shorter sentence"], "answer": 3, "why": "A última frase diz 'The life of this world is nothing but enjoyment of vanity', e resume o que a primeira lista."},
+    {"type": "structure", "q": "Which pattern appears in the first sentence?", "options": ["A list joined by repeated 'and'", "A question and an answer", "A command and a reason", "A story in time order"], "answer": 0, "why": "A primeira frase junta cinco itens com 'and'."},
+    {"type": "interpretation", "q": "Which description of the verse is best supported?", "options": ["A story with three characters", "A list, then an extended image of plants growing and withering, then a contrast, then a short closing line", "A list of commands", "A dialogue"], "answer": 1, "why": "As cinco frases cumprem essas funções, uma a uma."}
+   ],
+   "discussion": "The verse uses one extended image, rain and plants, to carry its whole argument. What does an extended image do that a list of qualities cannot?",
+   "writing": "Write 150 to 200 words: Analyse how the verse is built from its first sentence to its last, referring to specific words."
+  }
+ }
+}
