@@ -1,0 +1,51 @@
+{
+ "id": "alcorao-002-286",
+ "type": "reference",
+ "title": "The Quran: Surah 2, al-Baqarah (The Heifer), verse 286",
+ "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+ "tradition": "Texto sagrado do Islão, século VII",
+ "intro": "Lição sobre a Surata 2, versículo 286. O texto inglês é a tradução de Talal Itani, reproduzida sem alterações; as notas de língua, perguntas, discussão e escrita são material pedagógico separado, baseado apenas no que o próprio texto diz.",
+ "source": {"title": "Quran English Translation: Clear, Pure, Easy to Read Modern English", "translator": "Talal Itani", "publisher": "ClearQuran (Dallas, Beirut)", "edition": "Edition A (uses the word 'Allah' to refer to the Creator)", "license": "Creative Commons: Attribution, NonCommercial, NoDerivs", "website": "www.ClearQuran.com", "file": "PDF fornecido pelo utilizador (254 páginas)"},
+ "surahsFrom": "alcorao.json",
+ "levels": {
+  "B2": {
+   "passage": {"surah": 2, "from": 286, "to": 286},
+   "glossary": [["burden", "carregar com peso, sobrecarregar"], ["capacity", "capacidade"], ["earns", "ganha"], ["commits", "comete"], ["forgive", "perdoar"], ["strength", "força"]],
+   "questions": [
+    {"type": "literal", "q": "According to the verse, what does Allah not do?", "options": ["Forgive any soul", "Burden any soul beyond its capacity", "Hear any soul", "See any soul"], "answer": 1, "why": "O versículo começa com 'Allah does not burden any soul beyond its capacity.'"},
+    {"type": "vocabulary", "q": "'Capacity' means:", "options": ["a kind of food", "a place to live", "a type of music", "the amount someone can bear or do"], "answer": 3, "why": "'Capacity' é a capacidade, o que alguém consegue suportar."},
+    {"type": "inference", "q": "The prayer says 'do not burden us with more than we have strength to bear'. How does this connect to the first sentence?", "options": ["It says the opposite", "It changes the topic", "It asks for the same thing the first sentence states", "It asks for money"], "answer": 2, "why": "A primeira frase diz 'beyond its capacity' e a oração pede 'not... more than we have strength to bear'."},
+    {"type": "structure", "q": "How many times does the prayer start a sentence with 'Our Lord,'?", "options": ["2", "3", "4", "5"], "answer": 1, "why": "A oração tem três frases a começar com 'Our Lord, do not...'."},
+    {"type": "interpretation", "q": "Which sentence best sums up the verse?", "options": ["It tells a story about a king", "It lists the names of places", "It says no soul is burdened beyond its capacity, and gives a prayer asking for ease, forgiveness and help", "It describes a battle"], "answer": 2, "why": "A primeira parte afirma e a segunda é uma oração."}
+   ],
+   "discussion": "The verse says no soul is burdened beyond its capacity. How can this idea help someone who is having a difficult time?",
+   "writing": "Write 80 to 100 words: Explain in your own words what the verse says and what the prayer asks for."
+  },
+  "C1": {
+   "passage": {"surah": 2, "from": 286, "to": 286},
+   "glossary": [["soul", "alma"], ["to its credit", "a seu favor"], ["condemn", "condenar"], ["pardon", "desculpar, perdoar"], ["bear", "suportar"], ["Master", "Senhor, protector"]],
+   "questions": [
+    {"type": "literal", "q": "What is 'to its credit' in the first part of the verse?", "options": ["What it commits", "What it forgets", "What it earns", "What it loses"], "answer": 2, "why": "O versículo diz: 'To its credit is what it earns'."},
+    {"type": "vocabulary", "q": "'Pardon' in 'and pardon us' is closest to:", "options": ["punish", "forget", "count", "excuse or forgive"], "answer": 3, "why": "'Pardon' é perdoar ou desculpar."},
+    {"type": "inference", "q": "What do the words 'if we forget or make a mistake' show about the speakers?", "options": ["That they ask for help with ordinary human limits", "That they never make mistakes", "That they are angry", "That they are strangers"], "answer": 0, "why": "A oração admite 'forget' e 'make a mistake'."},
+    {"type": "structure", "q": "The prayer repeats 'Our Lord, do not...' three times. What does the repetition do?", "options": ["It changes the speaker", "It ends the verse", "It asks a question", "It builds a pattern of three requests, each about blame or a burden"], "answer": 3, "why": "As três frases pedem para não ser condenado e para não ser sobrecarregado."},
+    {"type": "interpretation", "q": "Which statement is best supported?", "options": ["The verse moves from a prayer to a story", "The verse is a list of laws", "The verse moves from a statement about limits to a prayer for ease, forgiveness and help", "The verse has no order"], "answer": 2, "why": "A afirmação inicial é seguida de uma oração entre aspas."}
+   ],
+   "discussion": "The verse first states a principle and then turns it into a prayer. How does the prayer change the way the principle sounds?",
+   "writing": "Write 120 to 150 words: Explain how the repetition of 'Our Lord' shapes the second half of the verse."
+  },
+  "C2": {
+   "passage": {"surah": 2, "from": 286, "to": 286},
+   "glossary": [["beyond its capacity", "para além da sua capacidade"], ["to its credit", "a seu favor"], ["against it", "contra ela"], ["as You have burdened", "como sobrecarregaste"], ["strength to bear", "força para suportar"], ["help us against", "ajuda-nos contra"]],
+   "questions": [
+    {"type": "literal", "q": "How does the verse describe what a soul earns and what it commits?", "options": ["What it earns is lost, and what it commits is kept", "To its credit is what it earns, and against it is what it commits", "What it earns is hidden, and what it commits is praised", "What it earns is shared, and what it commits is forgotten"], "answer": 1, "why": "O versículo diz 'To its credit is what it earns, and against it is what it commits'."},
+    {"type": "vocabulary", "q": "'To its credit' and 'against it' work as:", "options": ["two names of the same thing", "two places", "two questions", "opposites that mark gain and loss"], "answer": 3, "why": "'To its credit' é a favor e 'against it' é contra."},
+    {"type": "inference", "q": "The prayer is placed in quotation marks after a statement. What does that change?", "options": ["It makes the verse a story", "It turns a statement about Allah into words the speakers address to Him", "It changes the topic to a place", "It makes the verse a list"], "answer": 1, "why": "As aspas marcam a oração dirigida a 'You'."},
+    {"type": "structure", "q": "The prayer has three sentences beginning 'Our Lord, do not...' and a closing sentence beginning 'You are'. What is the effect?", "options": ["The sentences change the topic each time", "The three requests build a pattern, and the closing sentence gives the reason for asking", "The closing sentence ends the prayer without a reason", "The sentences ask questions"], "answer": 1, "why": "A última frase, 'You are our Lord and Master', fecha o padrão e justifica o pedido."},
+    {"type": "interpretation", "q": "Which description of the verse is best supported?", "options": ["A statement of a limit, a balanced pair of earning and committing, and a prayer built on repetition", "A story about two brothers", "A list of five laws", "A description of a journey"], "answer": 0, "why": "Cada parte do versículo tem uma função distinta."}
+   ],
+   "discussion": "The verse is built from a balanced pair ('to its credit... against it') and a prayer built on repetition. What does each device add?",
+   "writing": "Write 150 to 200 words: Analyse how the verse is built, referring to specific words and to the pattern of repetition."
+  }
+ }
+}
