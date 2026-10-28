@@ -69,6 +69,17 @@
   "reference": true
  },
  {
+  "id": "alcorao-002-286",
+  "file": "alcorao-002-286.json",
+  "title": "The Quran: Surah 2, al-Baqarah (The Heifer), verse 286",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "O versículo 286 da Surata 2, com uma afirmação e uma oração onde 'Our Lord, do not...' se repete. O mesmo texto nos três níveis.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
   "id": "alcorao-017",
   "file": "alcorao-017.json",
   "title": "The Quran: Surah 17, al-Isra' (The Night Journey)",
@@ -124,6 +135,17 @@
   "reference": true
  },
  {
+  "id": "alcorao-057",
+  "file": "alcorao-057.json",
+  "title": "The Quran: Surah 57, al-Hadid (The Iron), verse 20",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "O versículo 20 da Surata 57, com uma lista, uma comparação desenvolvida em etapas (chuva, plantas, secar, restos) e um contraste. O mesmo texto nos três níveis.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
   "id": "alcorao-067",
   "file": "alcorao-067.json",
   "title": "The Quran: Surah 67, al-Mulk (Sovereignty)",
@@ -157,6 +179,28 @@
   "reference": true
  },
  {
+  "id": "alcorao-095",
+  "file": "alcorao-095.json",
+  "title": "The Quran: Surah 95, at-Tin (The Fig)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Uma surata de oito versículos, com um contraste ('the best design' e 'the lowest of the low'), uma excepção e duas perguntas finais. O mesmo texto nos três níveis.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-096",
+  "file": "alcorao-096.json",
+  "title": "The Quran: Surah 96, al-'Alaq (The Clot), verses 1 to 5",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Os cinco primeiros versículos da Surata 96, sobre ler, a caneta e aprender. 'Read' repete-se, e é o tema da própria aplicação. O mesmo texto nos três níveis.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
   "id": "alcorao-097",
   "file": "alcorao-097.json",
   "title": "The Quran: Surah 97, al-Qadr (Decree)",
@@ -164,6 +208,17 @@
   "category": "Texto sagrado do Islão",
   "period": "Século VII",
   "description": "Uma surata de cinco versículos sobre uma noite. Tem uma pergunta, uma comparação (melhor do que mil meses) e um fecho curto.",
+  "levels": ["B2", "C1", "C2"],
+  "reference": true
+ },
+ {
+  "id": "alcorao-099",
+  "file": "alcorao-099.json",
+  "title": "The Quran: Surah 99, az-Zalzalah (The Quake)",
+  "author": "Tradução inglesa de Talal Itani (ClearQuran)",
+  "category": "Texto sagrado do Islão",
+  "period": "Século VII",
+  "description": "Uma surata de oito versículos. Os versículos 7 e 8 são quase iguais, com 'good' e 'evil' trocados. O mesmo texto nos três níveis.",
   "levels": ["B2", "C1", "C2"],
   "reference": true
  },
